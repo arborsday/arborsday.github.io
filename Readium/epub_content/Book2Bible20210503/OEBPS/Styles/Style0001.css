@@ -1,0 +1,122 @@
+@font-face {
+font-family: KoPubWorldBatangLight;
+src: url("../Fonts/KoPubWorldBatangLight.ttf");
+}
+
+@font-face {
+font-family: KoPubWorldBatangMedium;
+src: url("../Fonts/KoPubWorldBatangMedium.ttf");
+}
+
+@font-face {
+font-family: KoPubWorldBatangBold;
+src: url("../Fonts/KoPubWorldBatangBold.ttf");
+}
+
+@font-face {
+font-family: KoPubWorldDotumLight;
+src: url("../Fonts/KoPubWorldDotumLight.ttf");
+}
+
+@font-face {
+font-family: KoPubWorldDotumMedium;
+src: url("../Fonts/KoPubWorldDotumMedium.ttf");
+}
+
+@font-face {
+font-family: KoPubWorldDotumBold;
+src: url("../Fonts/KoPubWorldDotumBold.ttf");
+}
+
+
+
+h1 {
+font-family: KoPubWorldDotumLight;
+margin-bottom: 20%;
+color: darkgrey;
+}
+
+h2 {
+font-family: KoPubWorldBatangBold;
+text-size: 0.8em;
+color: burlywood;
+margin-top: 10%;
+}
+
+h4 {
+font-family: KoPubWorldBatangBold;
+}
+
+div {
+font-family: KoPubWorldBatangLight;
+line-height: 2em;
+}
+
+p {
+font-family: KoPubWorldBatangLight;
+line-height: 2em;
+}
+
+sup{
+font-size: 0.6em;
+color: grey;
+}
+
+b {
+font-family: KoPubWorldBatangBold;
+}
+
+.b1 {
+font-family: KoPubWorldBatangBold;
+}
+
+.b2 {
+font-family: KoPubWorldBatangMedium;
+}
+
+.c1{
+color: #002d99;
+}
+
+.c2{
+color: #640e2f;
+}
+
+.c3{
+color: #005a7c;
+}
+
+.c4{
+color: #000000;
+}
+
+
+.divide{
+border: 1px dotted burlywood;
+border-radius: 2em;
+width: 40%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20%;
+margin-bottom: 20%;
+}
+
+.c{
+text-align: center;
+margin-top: 10%;
+margin-bottom: 10%;
+}
+
+.u{
+text-decoration: underline;
+}
+
+ul {
+font-family: KoPubWorldBatangLight;
+line-height: 2em;
+}
+
+a {
+text-decoration:none;
+color:red;
+}

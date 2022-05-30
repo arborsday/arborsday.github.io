@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>ko</dc:language>
+    <dc:title>보기 편한, '구두점' 있는 성경</dc:title>
+    <meta content="0.9.10" name="Sigil version" />
+    <dc:publisher>독립출판 식목일</dc:publisher>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2021-06-05</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7a4eb3ee-93cb-47cf-a11a-68e231903403</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KoPubWorldBatangBold.ttf" href="Fonts/KoPubWorldBatangBold.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorldBatangLight.ttf" href="Fonts/KoPubWorldBatangLight.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorldBatangMedium.ttf" href="Fonts/KoPubWorldBatangMedium.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorldDotumLight.ttf" href="Fonts/KoPubWorldDotumLight.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorldDotumBold.ttf" href="Fonts/KoPubWorldDotumBold.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorldDotumMedium.ttf" href="Fonts/KoPubWorldDotumMedium.ttf" media-type="application/x-font-ttf"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01_Genesis.xhtml" href="Text/01_Genesis.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x40_Matthew.xhtml" href="Text/40_Matthew.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02_Exodus.xhtml" href="Text/02_Exodus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x41_Mark.xhtml" href="Text/41_Mark.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03_Leviticus.xhtml" href="Text/03_Leviticus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x42_Luke.xhtml" href="Text/42_Luke.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x43_John.xhtml" href="Text/43_John.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x44_Acts.xhtml" href="Text/44_Acts.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04_Numbers.xhtml" href="Text/04_Numbers.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05_Deuteronomy.xhtml" href="Text/05_Deuteronomy.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="com.apple.ibooks.display-options.xml" href="Misc/com.apple.ibooks.display-options.xml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="x01_Genesis.xhtml"/>
+    <itemref idref="x02_Exodus.xhtml"/>
+    <itemref idref="x03_Leviticus.xhtml"/>
+    <itemref idref="x04_Numbers.xhtml"/>
+    <itemref idref="x05_Deuteronomy.xhtml"/>
+    <itemref idref="x40_Matthew.xhtml"/>
+    <itemref idref="x41_Mark.xhtml"/>
+    <itemref idref="x42_Luke.xhtml"/>
+    <itemref idref="x43_John.xhtml"/>
+    <itemref idref="x44_Acts.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="표지" href="Text/cover.xhtml"/>
+  </guide>
+</package>
