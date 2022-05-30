@@ -1,2 +1,2 @@
 # arborsday.github.io
-https://brunch.co.kr/@everiwon/42
+EPUB뷰어 설치 https://www.epubguide.net/288
