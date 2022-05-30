@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>ko</dc:language>
+    <dc:rights>[넣을 값을 입력하세요.]</dc:rights>
+    <dc:title>당근해서 결혼했어요!</dc:title>
+    <dc:creator opf:role="aut">나무영</dc:creator>
+    <dc:publisher>독립출판 식목일</dc:publisher>
+    <meta content="1.8.0" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2021-12-25</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:40963eaa-39a8-47e2-ba67-5f37d2eb0d9f</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="Chapter01_body.xhtml" href="Text/Chapter01_body.xhtml" media-type="application/xhtml+xml"/>
+    <item id="preface.xhtml" href="Text/preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Katuri.ttf" href="Fonts/Katuri.ttf" media-type="application/x-font-ttf"/>
+    <item id="Chapter02_body.xhtml" href="Text/Chapter02_body.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter03_body.xhtml" href="Text/Chapter03_body.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter10_body.xhtml" href="Text/Chapter10_body.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter04_body.xhtml" href="Text/Chapter04_body.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter05_body.xhtml" href="Text/Chapter05_body.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter06_body.xhtml" href="Text/Chapter06_body.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter07_body.xhtml" href="Text/Chapter07_body.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter08_body.xhtml" href="Text/Chapter08_body.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter09_body.xhtml" href="Text/Chapter09_body.xhtml" media-type="application/xhtml+xml"/>
+    <item id="MaruBuri-Regular.ttf" href="Fonts/MaruBuri-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="dobira01.jpg" href="Images/dobira01.jpg" media-type="image/jpeg"/>
+    <item id="Book02_phone_DG.jpg" href="Images/Book02_phone_DG.jpg" media-type="image/jpeg"/>
+    <item id="Book01_phone_DG.jpg" href="Images/Book01_phone_DG.jpg" media-type="image/jpeg"/>
+    <item id="storyend.jpg" href="Images/storyend.jpg" media-type="image/jpeg"/>
+    <item id="dobira02.jpg" href="Images/dobira02.jpg" media-type="image/jpeg"/>
+    <item id="storyend.xhtml" href="Text/storyend.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dobira04.jpg" href="Images/dobira04.jpg" media-type="image/jpeg"/>
+    <item id="dobira03.jpg" href="Images/dobira03.jpg" media-type="image/jpeg"/>
+    <item id="dobira10.jpg" href="Images/dobira10.jpg" media-type="image/jpeg"/>
+    <item id="dobira09.jpg" href="Images/dobira09.jpg" media-type="image/jpeg"/>
+    <item id="dobira08.jpg" href="Images/dobira08.jpg" media-type="image/jpeg"/>
+    <item id="dobira07.jpg" href="Images/dobira07.jpg" media-type="image/jpeg"/>
+    <item id="recommendations.xhtml" href="Text/recommendations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bookreview.xhtml" href="Text/bookreview.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="MaruBuri-SemiBold.ttf" href="Fonts/MaruBuri-SemiBold.ttf" media-type="font/ttf"/>
+    <item id="DGimo01.png" href="Images/DGimo01.png" media-type="image/png"/>
+    <item id="dobira05.jpg" href="Images/dobira05.jpg" media-type="image/jpeg"/>
+    <item id="dobira06.jpg" href="Images/dobira06.jpg" media-type="image/jpeg"/>
+    <item id="DGimo22.png" href="Images/DGimo22.png" media-type="image/png"/>
+    <item id="DGimo25.png" href="Images/DGimo25.png" media-type="image/png"/>
+    <item id="DGimo21.png" href="Images/DGimo21.png" media-type="image/png"/>
+    <item id="DGimo18.png" href="Images/DGimo18.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="preface.xhtml"/>
+    <itemref idref="recommendations.xhtml"/>
+    <itemref idref="Chapter01_body.xhtml"/>
+    <itemref idref="Chapter02_body.xhtml"/>
+    <itemref idref="Chapter03_body.xhtml"/>
+    <itemref idref="Chapter04_body.xhtml"/>
+    <itemref idref="Chapter05_body.xhtml"/>
+    <itemref idref="Chapter06_body.xhtml"/>
+    <itemref idref="Chapter07_body.xhtml"/>
+    <itemref idref="Chapter08_body.xhtml"/>
+    <itemref idref="Chapter09_body.xhtml"/>
+    <itemref idref="Chapter10_body.xhtml"/>
+    <itemref idref="storyend.xhtml"/>
+    <itemref idref="bookreview.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="표지" href="Text/cover.xhtml"/>
+  </guide>
+</package>

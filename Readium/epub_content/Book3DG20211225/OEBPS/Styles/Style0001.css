@@ -1,0 +1,248 @@
+/* 소스코드는 네이버 꿈꾸는 책공장에서 활발하게 활동하시는 분들의 노고를 연구해서 작성되었으며, 쉽고 간단하게 작성되었습니다. */
+
+/* 내맘대로님, 레드M엔젤님, 스타비즈님, 천천님, 안북스님, 책보여요님, 글쟁글쟁님, 그리고 카페쥔장 덴디님께 감사의 말씀을 전해봅니다! */
+
+/* https://cafe.naver.com/bookfactory */
+
+/*Font Define*/
+
+@font-face {
+  font-family: "Katuri";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/Katuri.ttf); 
+}
+
+@font-face {
+  font-family: "MaruBuri-Regular";
+  font-weight: normal;
+  font-style: normal;
+  src: url(../Fonts/MaruBuri-Regular.ttf); 
+}
+
+@font-face {
+  font-family: "MaruBuri-SemiBold";
+  font-weight: 600;
+  font-style: normal;
+  src: url(../Fonts/MaruBuri-SemiBold.ttf); 
+}
+
+/*CSS Reset*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*Cover*/
+
+.cover {
+  width: 100%;
+  text-align: center;
+  text-indent: 0;
+}
+
+.cover img {
+  width: 100%;
+  max-width: 100%;
+}
+
+/*Headings*/
+
+h1 {
+  font-family: Katuri;
+  font-size: 1.6em;
+  line-height: 1.4em;
+  color: #9c7975;
+}
+
+h2 {
+  font-family: Katuri;
+  font-size: 1.2em;
+  line-height: 1.8em;
+  color: #fe7e35;
+}
+
+/*Link*/
+
+a {
+  text-decoration: none;
+  color: #fe7e35;
+}
+
+/*Colors*/
+
+.c_darkred {
+  color: #9c7975;
+}
+
+.c_brightorange {
+  color: #fe7e35;
+}
+
+.c_cgreen {
+  color: #0c9;
+}
+
+/*Text*/
+
+p {
+  font-family: MaruBuri-Regular;
+  font-size: 1em;
+  line-height: 1.8em;
+  color: #5d4745;
+  margin-bottom: 3%;
+  word-break: all;
+}
+
+.txt_center {
+  text-align: center;
+}
+
+.txt_right {
+  text-align: right;
+}
+
+.txt_left {
+  text-align: left;
+}
+
+/*Box*/
+
+.prefacebox {
+  margin-top: 10%;
+  border: 1px dotted #0c9;
+  padding: 0.4em;
+}
+
+.prefacebox ul {
+  font-family: MaruBuri-SemiBold;
+  font-size: 0.9em;
+  line-height: 1.8em;
+  color: #5d4745;
+  margin-left: 5%;
+}
+
+.recbox_right {
+  font-family: MaruBuri-SemiBold;
+  font-size: 0.9em;
+  line-height: 1.6em;
+  color: white;
+  word-break: all;
+  margin: 1em;
+  padding: 0.8em;
+  width: 80%;
+  margin-left: 10%;
+  border-radius: 20px 20px 0 20px;
+  background-color: #fe7e35;
+}
+
+.recbox_left {
+  font-family: MaruBuri-SemiBold;
+  font-size: 0.9em;
+  line-height: 1.6em;
+  color: white;
+  word-break: all;
+  margin: 1em;
+  padding: 0.8em;
+  width: 80%;
+  border-radius: 20px 20px 20px 0;
+  background-color: #0c9;
+}
+
+/*Images*/
+
+img {
+  width: 100%;
+}
+
+.center {
+  width: 100%;
+  text-align: center;
+  text-indent: 0;
+}
+
+.center img {
+  width: 100%;
+  max-width: 100%;
+}
+
+/*Phone Messaging Box*/
+
+.box_right_s {
+  width: 60%;
+  margin-left: 30%;
+  border-radius: 25px 0 25px 25px;
+  border: 1px solid #fe7e35;
+  background-color: #fe7e35;
+  padding: 1em;
+  text-align: left;
+  line-height: 1.4em;
+  color: white;
+}
+
+.box_right {
+  width: 60%;
+  margin-left: 30%;
+  border-radius: 25px;
+  border: 1px solid #fe7e35;
+  background-color: #fe7e35;
+  padding: 1em;
+  text-align: left;
+  line-height: 1.4em;
+  color: white;
+}
+
+.box_left_s {
+  width: 60%;
+  margin-left: 2%;
+  border-radius: 0 25px 25px;
+  border: 1px solid #eaebef;
+  background-color: #eaebef;
+  padding: 1em;
+  text-align: left;
+  line-height: 1.4em;
+  color: black;
+}
+
+.box_left {
+  width: 60%;
+  margin-left: 2%;
+  border-radius: 25px;
+  border: 1px solid #eaebef;
+  background-color: #eaebef;
+  padding: 1em;
+  text-align: left;
+  line-height: 1.4em;
+  color: black;
+}
+
+.imoticon {
+  width: 65%;
+  margin-left: 35%;
+}
+
+/*Pages*/
+
+.break {
+  page-break-after: always;
+  -webkit-column-break-after: always;
+}
+
+/*Copyright*/
+
+.copyrightline {
+  font-size: 0.7em;
+  color: #fe7e35;
+  text-align: center;
+}
+
+.copyrightbox {
+  border-radius: 20px;
+  background-color: #fe7e35;
+  padding: 0.8em;
+  font-family: MaruBuri-Regular;
+  font-size: 0.8em;
+  line-height: 1.6em;
+  color: white;
+}

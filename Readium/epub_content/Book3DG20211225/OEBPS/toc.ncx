@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:40963eaa-39a8-47e2-ba67-5f37d2eb0d9f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>당근해서 결혼했어요!</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>당근마켓에서 결혼하기, 당근마켓으로 결혼하기</text>
+      </navLabel>
+      <content src="Text/preface.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>추천의 글</text>
+      </navLabel>
+      <content src="Text/recommendations.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>히키코모리, 책 무료나눔으로 세상과 다시 소통하다.</text>
+      </navLabel>
+      <content src="Text/Chapter01_body.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>(1) 번아웃으로 정신건강의학과에 가다!!</text>
+        </navLabel>
+        <content src="Text/Chapter01_body.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>(2) 지구온난화와 죽음이 두려워요!</text>
+        </navLabel>
+        <content src="Text/Chapter01_body.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>(3) 우여곡절 당근마켓 입문기</text>
+        </navLabel>
+        <content src="Text/Chapter01_body.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>(4) 첫 거래에 성공했어요~</text>
+        </navLabel>
+        <content src="Text/Chapter01_body.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>(5) 부엌떼기 엄마와 씨름하여 판매하기!</text>
+        </navLabel>
+        <content src="Text/Chapter01_body.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>(6) 중고책방에서 거절당한 불쌍한 책들...</text>
+        </navLabel>
+        <content src="Text/Chapter01_body.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>(7) 무료나눔의 첫 걸음, 무나부심!</text>
+        </navLabel>
+        <content src="Text/Chapter01_body.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>(8) 히키극복 퀘스트를 하나 더 추가했어요~</text>
+        </navLabel>
+        <content src="Text/Chapter01_body.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>(9) 삽니다!도 해봅니다!</text>
+        </navLabel>
+        <content src="Text/Chapter01_body.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>잔느귀용의 사사기 주석과 쩐다두산 목사님</text>
+      </navLabel>
+      <content src="Text/Chapter02_body.xhtml"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>(1) 혹시 신학을 전공했냐고요?</text>
+        </navLabel>
+        <content src="Text/Chapter02_body.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>(2) 순교자의 소리에서 일하냐고요?</text>
+        </navLabel>
+        <content src="Text/Chapter02_body.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>집주인이랑 싸웠는데 집주인 남편이 나타났어요</text>
+      </navLabel>
+      <content src="Text/Chapter03_body.xhtml"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>(1) 주륵주르르르르륵 장대비가 내려요. ㅠㅠ</text>
+        </navLabel>
+        <content src="Text/Chapter03_body.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>(2) 무료나눔으로 속상함을 달래욤~</text>
+        </navLabel>
+        <content src="Text/Chapter03_body.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>(3) 겨.. 결혼이 하고 싶어 져요... 엉엉</text>
+        </navLabel>
+        <content src="Text/Chapter03_body.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>교회에 중국어를 열심히 하는 독거청년이 있어요</text>
+      </navLabel>
+      <content src="Text/Chapter04_body.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>중국어 공부 같이 하실래요?</text>
+      </navLabel>
+      <content src="Text/Chapter05_body.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>만난지 1년 후에 손잡을래요.</text>
+      </navLabel>
+      <content src="Text/Chapter06_body.xhtml"/>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>(1) 쿵쾅쿵쾅 자원봉사 하러 갑니다~</text>
+        </navLabel>
+        <content src="Text/Chapter06_body.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>(2) 해진 양말이 안쓰러웠나봐요.</text>
+        </navLabel>
+        <content src="Text/Chapter06_body.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>우리 결혼할까요?</text>
+      </navLabel>
+      <content src="Text/Chapter07_body.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>남자는 여자하기 나름이에요~</text>
+      </navLabel>
+      <content src="Text/Chapter08_body.xhtml"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>(1) 말 실수해서 1주일 연락정지 먹었어요.</text>
+        </navLabel>
+        <content src="Text/Chapter08_body.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>(2) 예랑이가 저를 음식점에 버리고 가버렸어요.</text>
+        </navLabel>
+        <content src="Text/Chapter08_body.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>(3) 프로포즈는 언제할꼬얌? 뿌잉뿌잉</text>
+        </navLabel>
+        <content src="Text/Chapter08_body.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>혼수는? 당근 당근에서 사야죠!</text>
+      </navLabel>
+      <content src="Text/Chapter09_body.xhtml"/>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>(1) 무언가 사고플땐 당근마켓에서 먼저 검색합니다!</text>
+        </navLabel>
+        <content src="Text/Chapter09_body.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>(2) 아이팟 단돈 4만 5천원! &gt; 따로 따로 구매해도 괜찮아요~</text>
+        </navLabel>
+        <content src="Text/Chapter09_body.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>(3) 냉장고, 세탁기, 침대처럼 큰 녀석들은 묶음으로 한 방에 구매했어요~</text>
+        </navLabel>
+        <content src="Text/Chapter09_body.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>셀프웨딩, 어렵지 않아요~</text>
+      </navLabel>
+      <content src="Text/Chapter10_body.xhtml"/>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>(1) 욕심부리지 말고 많이 내려놓아요~</text>
+        </navLabel>
+        <content src="Text/Chapter10_body.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>(2) 발품팔지 말고 손품 먼저 팔아요~</text>
+        </navLabel>
+        <content src="Text/Chapter10_body.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>이 책을 다 본 후...</text>
+      </navLabel>
+      <content src="Text/bookreview.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>도서정보</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
