@@ -12,8 +12,8 @@
   <author>
     <name>나무영</name>
   </author>
-  <link type="image/jpeg" href="https://arborsday.github.io/Readium/index.html?epub=epub_content/Book3DG20211225/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
-  <link type="application/epub" href="https://arborsday.github.io/Readium/index.html?epub=epub_content/Book3DG20211225" rel="http://opds-spec.org/acquisition"/>
+  <link type="image/jpeg" href="http://arborsday.github.io/Readium/index.html?epub=epub_content/Book3DG20211225/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+  <link type="application/epub" href="http://arborsday.github.io/Readium/index.html?epub=epub_content/Book3DG20211225" rel="http://opds-spec.org/acquisition"/>
   <updated>2021-12-12500:00:00Z</updated>
   <id>READIUM_OPDS_0123456789_1</id>
 </entry>
