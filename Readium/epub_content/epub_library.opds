@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:odl="http://opds-spec.org/odl" xml:lang="ko" xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/2010/catalog">
+<feed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:odl="http://opds-spec.org/odl" xml:lang="en" xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/2010/catalog">
 
 <id>READIUM_OPDS_0123456789</id>
 <updated>2022-05-30T00:00:00Z</updated>
@@ -13,7 +13,7 @@
     <name>나무영</name>
   </author>
   <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/Book3DG20211225/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
-  <link type="application/epub" href="http://arborsday.github.io/Readium/epub_content/Book3DG20211225/" rel="http://opds-spec.org/acquisition"/>
+  <link type="application/epub" href="Book3DG20211225" rel="http://opds-spec.org/acquisition"/>
   <updated>2021-12-12500:00:00Z</updated>
   <id>READIUM_OPDS_0123456789_1</id>
 </entry>
@@ -24,7 +24,7 @@
     <name>국한문 혼용 개역한글판</name>
   </author>
   <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/Book2Bible20210503/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
-  <link type="application/epub" href="http://arborsday.github.io/Readium/epub_content/Book2Bible20210503/" rel="http://opds-spec.org/acquisition"/>
+  <link type="application/epub" href="Book2Bible20210503" rel="http://opds-spec.org/acquisition"/>
   <updated>2021-05-03T00:00:00Z</updated>
   <id>READIUM_OPDS_0123456789_2</id>
 </entry>
