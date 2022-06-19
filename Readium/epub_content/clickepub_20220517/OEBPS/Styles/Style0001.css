@@ -1,0 +1,259 @@
+@font-face {
+  font-family: 'Cafe24Ssurround';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../Fonts/Cafe24Ssurround.ttf');
+}
+
+@font-face {
+  font-family: 'Cafe24Ssurroundair';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../Fonts/Cafe24SsurroundAir.ttf');
+}
+
+@font-face {
+  font-family: 'D2Codingligature';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../Fonts/D2Coding-Ver1.3.2-20180524-ligature.ttf');
+}
+
+@font-face {
+  font-family: 'D2CodingligatureBold';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../Fonts/D2CodingBold-Ver1.3.2-20180524-ligature.ttf');
+}
+
+@font-face {
+  font-family: 'KoPubWorldDotumBold';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../Fonts/KoPubWorldDotumBold.ttf');
+}
+
+@font-face {
+  font-family: 'KoPubWorldDotumLight';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../Fonts/KoPubWorldDotumLight.ttf');
+}
+
+@font-face {
+  font-family: 'KoPubWorldDotumMedium';
+  font-weight: 500;
+  font-style: normal;
+  src: url('../Fonts/KoPubWorldDotumMedium.ttf');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.cover {
+  width: 100%;
+  height: 100%;
+  text-indent: 0;
+  text-align: center;
+  display: box;
+  box-orient: horizontal;
+  box-pack: center;
+  box-align: center;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+  display: -moz-box;
+  -moz-box-orient: horizontal;
+  -moz-box-pack: center;
+  -moz-box-align: center;
+}
+
+img.cover {
+  width: 100%;
+  height: auto;
+}
+
+h1,h2,h3,h4 {
+  font-family: "Cafe24Ssurround";
+  line-height: 1.6em;
+  margin: 2em 0 1em 0;
+  color: darkslategray;
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.4em;
+}
+
+h1 span {
+  display: block;
+  font-family: "D2CodingligatureBold";
+  color: mediumseagreen;
+}
+
+h1:after {
+  display: block;
+  margin: 1em auto;
+  content: '\1F44B';
+  font-size: 1em;
+  color: mediumseagreen;
+}
+
+h2 {
+  border-bottom: 2px solid darkslategray;
+  font-size: 1.2em;
+}
+
+h2 span {
+  display: inline-block;
+  position: relative;
+  top: 2px;
+  padding: 0.3em 0.2em 0 0.1em;
+  margin-right: 0.2em;
+  background: mediumseagreen;
+  color: white;
+  font-family: "D2CodingligatureBold";
+}
+
+h3 {
+  font-size: 1.1em;
+  border-bottom: 1px solid darkslategray;
+}
+
+h3 span {
+  display: inline-block;
+  position: relative;
+  top: 1px;
+  padding: 0.2em 0.2em 0 0.1em;
+  margin-right: 0.2em;
+  color: mediumseagreen;
+  font-family: "D2CodingligatureBold";
+}
+
+h4 {
+  font-family: "Cafe24Ssurround";
+  font-size: 1em;
+  line-height: 1.6em;
+  margin: 0.5em 0 1em 0;
+}
+
+p {
+  font-family: "KoPubWorldDotumLight";
+  font-size: 1em;
+  line-height: 2em;
+  word-break: break-all;
+  text-indent: none  !important;
+  margin-bottom: 0.8em;
+}
+
+strong {
+  color: darkslategray;
+}
+
+span.chNum {
+  display: inline-block;
+  padding: 0.3em 0.3em 0 0.1em;
+  margin-right: 0.2em;
+  background: ghostwhite;
+  font-family: "D2CodingligatureBold";
+}
+
+span.btn {
+  font-family: "D2CodingligatureBold";
+  color: darkslategray;
+}
+
+div.code {
+  border: 1px dotted slategray;
+  padding: 0.5em;
+  margin: 2em 0 1em 0;
+  color: darkslategray;
+  background: ghostwhite;
+}
+
+a {
+  font-family: "KoPubWorldDotumBold";
+  color: mediumseagreen;
+  text-decoration: none;
+}
+
+a:hover {
+  color: tomato;
+}
+
+/*list*/
+ol,ul {
+  font-family: "KoPubWorldDotumMedium";
+  font-size: 1em;
+  margin-left: 1em;
+  line-height: 2em;
+}
+
+li {
+  margin: 0.6em;
+  word-break: break-all;
+}
+
+ol {
+  counter-reset: section;
+  list-style-type: none;
+}
+
+ol li {
+  counter-increment: section;
+  text-indent: -1em;
+}
+
+ol li:before {
+  content: counters(section, '.') '. ';
+}
+
+ul li {
+  list-style: symbols("*");
+}
+
+/*list_toc*/
+ol.list_toc {
+  font-family: "Cafe24Ssurroundair";
+  color: darkslategray;
+}
+
+/*list_CircleNum*/
+ol.list_CircleNum {
+  list-style-type: none;
+}
+
+ol.list_CircleNum > li:nth-child(1):before {
+  content: '\2460';
+  padding-right: 0.3em;
+}
+
+ol.list_CircleNum > li:nth-child(2):before {
+  content: '\2461';
+  padding-right: 0.3em;
+}
+
+ol.list_CircleNum > li:nth-child(3):before {
+  content: '\2462';
+  padding-right: 0.3em;
+}
+
+/*list_star*/
+ul.list_star {
+  list-style-type: none;
+}
+
+ul.list_star > li {
+  position: relative;
+  padding: 0.1em;
+}
+
+ul.list_star > li:before {
+  content: '*';
+  position: absolute;
+  top: 0.3em;
+  left: -0.8em;
+}
