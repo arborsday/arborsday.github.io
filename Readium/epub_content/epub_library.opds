@@ -2,7 +2,7 @@
 <feed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:odl="http://opds-spec.org/odl" xml:lang="en" xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:opds="http://opds-spec.org/2010/catalog">
 
 <id>READIUM_OPDS_0123456789</id>
-<updated>2022-05-30T00:00:00Z</updated>
+<updated>2022-07-07T00:00:00Z</updated>
 <title>Readium CloudReader OPDS feed</title>
 <link rel="self" href="epub_library.opds" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
 <link rel="start" href="epub_library.opds" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
@@ -25,7 +25,7 @@
   </author>
   <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/Book2Bible20210503/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
   <link type="application/epub" href="Book2Bible20210503" rel="http://opds-spec.org/acquisition"/>
-  <updated>2021-05-03T00:00:00Z</updated>
+  <updated>2022-05-03T00:00:00Z</updated>
   <id>READIUM_OPDS_0123456789_2</id>
 </entry>
   
@@ -36,8 +36,19 @@
   </author>
   <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/clickepub_20220517/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
   <link type="application/epub" href="clickepub_20220517" rel="http://opds-spec.org/acquisition"/>
-  <updated>2021-05-17T00:00:00Z</updated>
+  <updated>2022-05-17T00:00:00Z</updated>
   <id>READIUM_OPDS_0123456789_3</id>
+</entry>
+
+<entry>
+  <title>알맹상점 세제리필가이드</title>
+  <author>
+    <name>알맹상점</name>
+  </author>
+  <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/Almaeng_Refil_20220706/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+  <link type="application/epub" href="Almaeng_Refil_20220706" rel="http://opds-spec.org/acquisition"/>
+  <updated>2022-07-07T00:00:00Z</updated>
+  <id>READIUM_OPDS_0123456789_4</id>
 </entry>
 
 </feed>
