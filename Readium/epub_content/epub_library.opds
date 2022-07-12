@@ -19,13 +19,13 @@
 </entry>
 
 <entry>
-  <title>보기 편한 '구두점' 있는, 성경</title>
+  <title>‘구두점(句讀點)’ 있는, 보기 편한 성경(聖經)</title>
   <author>
     <name>국한문 혼용 개역한글판</name>
   </author>
-  <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/Book2Bible20210503/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
-  <link type="application/epub" href="Book2Bible20210503" rel="http://opds-spec.org/acquisition"/>
-  <updated>2022-05-03T00:00:00Z</updated>
+  <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/ReadableBible_20220614/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+  <link type="application/epub" href="ReadableBible_20220614" rel="http://opds-spec.org/acquisition"/>
+  <updated>2022-07-12T00:00:00Z</updated>
   <id>READIUM_OPDS_0123456789_2</id>
 </entry>
   

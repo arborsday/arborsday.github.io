@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator>나무영</dc:creator>
+    <dc:language>ko</dc:language>
+    <dc:title>보기 편한, '구두점' 있는 성경</dc:title>
+    <meta content="1.9.10" name="Sigil version"/>
+    <dc:publisher>독립출판 식목일</dc:publisher>
+    <dc:date opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2022-06-14</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7a4eb3ee-93cb-47cf-a11a-68e231903403</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2022-07-12</dc:date>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="prologue.xhtml" href="Text/prologue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Bible_Style.css" href="Styles/Bible_Style.css" media-type="text/css"/>
+    <item id="bookinfo.xhtml" href="Text/bookinfo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KoPubWorldBatangBold.ttf" href="Fonts/KoPubWorldBatangBold.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorldBatangLight.ttf" href="Fonts/KoPubWorldBatangLight.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorldBatangMedium.ttf" href="Fonts/KoPubWorldBatangMedium.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorldDotumLight.ttf" href="Fonts/KoPubWorldDotumLight.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorldDotumBold.ttf" href="Fonts/KoPubWorldDotumBold.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorldDotumMedium.ttf" href="Fonts/KoPubWorldDotumMedium.ttf" media-type="application/x-font-ttf"/>
+    <item id="theTenCommandments.xhtml" href="Text/theTenCommandments.xhtml" media-type="application/xhtml+xml"/>
+    <item id="theLordsPrayer.xhtml" href="Text/theLordsPrayer.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x01_Genesis.xhtml" href="Text/01_Genesis.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x40_Matthew.xhtml" href="Text/40_Matthew.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02_Exodus.xhtml" href="Text/02_Exodus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x41_Mark.xhtml" href="Text/41_Mark.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03_Leviticus.xhtml" href="Text/03_Leviticus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x42_Luke.xhtml" href="Text/42_Luke.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x43_John.xhtml" href="Text/43_John.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x44_Acts.xhtml" href="Text/44_Acts.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04_Numbers.xhtml" href="Text/04_Numbers.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05_Deuteronomy.xhtml" href="Text/05_Deuteronomy.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06_Joshua.xhtml" href="Text/06_Joshua.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x45_Romans.xhtml" href="Text/45_Romans.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07_Judges.xhtml" href="Text/07_Judges.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x46_Corinthians1.xhtml" href="Text/46_Corinthians1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08_Ruth.xhtml" href="Text/08_Ruth.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x47_Corinthians2.xhtml" href="Text/47_Corinthians2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09_Samuel1.xhtml" href="Text/09_Samuel1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x48_Galatians.xhtml" href="Text/48_Galatians.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x49_Ephesians.xhtml" href="Text/49_Ephesians.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10_Samuel2.xhtml" href="Text/10_Samuel2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11_Kings1.xhtml" href="Text/11_Kings1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x50_Philippians.xhtml" href="Text/50_Philippians.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12_Kings2.xhtml" href="Text/12_Kings2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x51_Colossians.xhtml" href="Text/51_Colossians.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13_Chronicles1.xhtml" href="Text/13_Chronicles1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x52_Thessalonians1.xhtml" href="Text/52_Thessalonians1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x53_Thessalonians2.xhtml" href="Text/53_Thessalonians2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14_Chronicles2.xhtml" href="Text/14_Chronicles2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16_Nehemiah.xhtml" href="Text/16_Nehemiah.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x54_Timothy1.xhtml" href="Text/54_Timothy1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x55_Timothy2.xhtml" href="Text/55_Timothy2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15_Ezra.xhtml" href="Text/15_Ezra.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17_Esther.xhtml" href="Text/17_Esther.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x56_Titus.xhtml" href="Text/56_Titus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19_Psalm.xhtml" href="Text/19_Psalm.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x57_Philemon.xhtml" href="Text/57_Philemon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x58_Hebrews.xhtml" href="Text/58_Hebrews.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18_Job.xhtml" href="Text/18_Job.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x59_James.xhtml" href="Text/59_James.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x60_Peter1.xhtml" href="Text/60_Peter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x61_Peter2.xhtml" href="Text/61_Peter2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x62_John1.xhtml" href="Text/62_John1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20_Proverbs.xhtml" href="Text/20_Proverbs.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x63_John2.xhtml" href="Text/63_John2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x64_John3.xhtml" href="Text/64_John3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x65_Juda.xhtml" href="Text/65_Juda.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x66_Revelation.xhtml" href="Text/66_Revelation.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x21_Ecclesiastes.xhtml" href="Text/21_Ecclesiastes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x22_SongofSongs.xhtml" href="Text/22_SongofSongs.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x24_Jeremiah.xhtml" href="Text/24_Jeremiah.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x23_Isaiah.xhtml" href="Text/23_Isaiah.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x25_Lamentation.xhtml" href="Text/25_Lamentation.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x26_Ezekiel.xhtml" href="Text/26_Ezekiel.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x39_Malachi.xhtml" href="Text/39_Malachi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x38_Zechariah.xhtml" href="Text/38_Zechariah.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x37_Haggai.xhtml" href="Text/37_Haggai.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x27_Daniel.xhtml" href="Text/27_Daniel.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x28_Hosea.xhtml" href="Text/28_Hosea.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x29_Joel.xhtml" href="Text/29_Joel.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x30_Amos.xhtml" href="Text/30_Amos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x31_Obadiah.xhtml" href="Text/31_Obadiah.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x32_Jonah.xhtml" href="Text/32_Jonah.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x33_Micah.xhtml" href="Text/33_Micah.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x34_Nahum.xhtml" href="Text/34_Nahum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x35_Habakkuk.xhtml" href="Text/35_Habakkuk.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x36_Zephaniah.xhtml" href="Text/36_Zephaniah.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="bookinfo.xhtml"/>
+    <itemref idref="prologue.xhtml"/>
+    <itemref idref="theTenCommandments.xhtml"/>
+    <itemref idref="theLordsPrayer.xhtml"/>
+    <itemref idref="x01_Genesis.xhtml"/>
+    <itemref idref="x02_Exodus.xhtml"/>
+    <itemref idref="x03_Leviticus.xhtml"/>
+    <itemref idref="x04_Numbers.xhtml"/>
+    <itemref idref="x05_Deuteronomy.xhtml"/>
+    <itemref idref="x06_Joshua.xhtml"/>
+    <itemref idref="x07_Judges.xhtml"/>
+    <itemref idref="x08_Ruth.xhtml"/>
+    <itemref idref="x09_Samuel1.xhtml"/>
+    <itemref idref="x10_Samuel2.xhtml"/>
+    <itemref idref="x11_Kings1.xhtml"/>
+    <itemref idref="x12_Kings2.xhtml"/>
+    <itemref idref="x13_Chronicles1.xhtml"/>
+    <itemref idref="x14_Chronicles2.xhtml"/>
+    <itemref idref="x15_Ezra.xhtml"/>
+    <itemref idref="x16_Nehemiah.xhtml"/>
+    <itemref idref="x17_Esther.xhtml"/>
+    <itemref idref="x18_Job.xhtml"/>
+    <itemref idref="x19_Psalm.xhtml"/>
+    <itemref idref="x20_Proverbs.xhtml"/>
+    <itemref idref="x21_Ecclesiastes.xhtml"/>
+    <itemref idref="x22_SongofSongs.xhtml"/>
+    <itemref idref="x23_Isaiah.xhtml"/>
+    <itemref idref="x24_Jeremiah.xhtml"/>
+    <itemref idref="x25_Lamentation.xhtml"/>
+    <itemref idref="x26_Ezekiel.xhtml"/>
+    <itemref idref="x27_Daniel.xhtml"/>
+    <itemref idref="x28_Hosea.xhtml"/>
+    <itemref idref="x29_Joel.xhtml"/>
+    <itemref idref="x30_Amos.xhtml"/>
+    <itemref idref="x31_Obadiah.xhtml"/>
+    <itemref idref="x32_Jonah.xhtml"/>
+    <itemref idref="x33_Micah.xhtml"/>
+    <itemref idref="x34_Nahum.xhtml"/>
+    <itemref idref="x35_Habakkuk.xhtml"/>
+    <itemref idref="x36_Zephaniah.xhtml"/>
+    <itemref idref="x37_Haggai.xhtml"/>
+    <itemref idref="x38_Zechariah.xhtml"/>
+    <itemref idref="x39_Malachi.xhtml"/>
+    <itemref idref="x40_Matthew.xhtml"/>
+    <itemref idref="x41_Mark.xhtml"/>
+    <itemref idref="x42_Luke.xhtml"/>
+    <itemref idref="x43_John.xhtml"/>
+    <itemref idref="x44_Acts.xhtml"/>
+    <itemref idref="x45_Romans.xhtml"/>
+    <itemref idref="x46_Corinthians1.xhtml"/>
+    <itemref idref="x47_Corinthians2.xhtml"/>
+    <itemref idref="x48_Galatians.xhtml"/>
+    <itemref idref="x49_Ephesians.xhtml"/>
+    <itemref idref="x50_Philippians.xhtml"/>
+    <itemref idref="x51_Colossians.xhtml"/>
+    <itemref idref="x52_Thessalonians1.xhtml"/>
+    <itemref idref="x53_Thessalonians2.xhtml"/>
+    <itemref idref="x54_Timothy1.xhtml"/>
+    <itemref idref="x55_Timothy2.xhtml"/>
+    <itemref idref="x56_Titus.xhtml"/>
+    <itemref idref="x57_Philemon.xhtml"/>
+    <itemref idref="x58_Hebrews.xhtml"/>
+    <itemref idref="x59_James.xhtml"/>
+    <itemref idref="x60_Peter1.xhtml"/>
+    <itemref idref="x61_Peter2.xhtml"/>
+    <itemref idref="x62_John1.xhtml"/>
+    <itemref idref="x63_John2.xhtml"/>
+    <itemref idref="x64_John3.xhtml"/>
+    <itemref idref="x65_Juda.xhtml"/>
+    <itemref idref="x66_Revelation.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="표지" href="Text/cover.xhtml"/>
+  </guide>
+</package>
