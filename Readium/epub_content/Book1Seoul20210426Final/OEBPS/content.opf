@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator>나무영</dc:creator>
+    <dc:language>ko</dc:language>
+    <dc:title>경성:서울, 그 곳</dc:title>
+    <dc:creator opf:role="aut">권태응, 권환, 김복진, 김정식, 나혜석, 노천명, 박용철, 박인환, 방정환, 설정식, 오장환, 여운형, 이광수, 이원록, 이효석, 임화, 최남선, 홍난파</dc:creator>
+    <dc:publisher>독립출판 식목일</dc:publisher>
+    <meta name="Sigil version" content="0.9.10" />
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2021-08-16</dc:date>
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:e315ae25-e5c7-48fe-8df5-86d6c3f290ac</dc:identifier>
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="bookinfo.xhtml" href="Text/bookinfo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="Seoul00.jpg" href="Images/Seoul00.jpg" media-type="image/jpeg"/>
+    <item id="Seoul000.jpg" href="Images/Seoul000.jpg" media-type="image/jpeg"/>
+    <item id="Seoul01.jpg" href="Images/Seoul01.jpg" media-type="image/jpeg"/>
+    <item id="Seoul30.jpg" href="Images/Seoul30.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="author.xhtml" href="Text/author.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="prologue.xhtml" href="Text/prologue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="note.xhtml" href="Text/note.xhtml" media-type="application/xhtml+xml"/>
+    <item id="inside2.xhtml" href="Text/inside2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part1.xhtml" href="Text/part1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part101.xhtml" href="Text/part101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part103.xhtml" href="Text/part103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part104.xhtml" href="Text/part104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part105.xhtml" href="Text/part105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part106.xhtml" href="Text/part106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part107.xhtml" href="Text/part107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part108.xhtml" href="Text/part108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part109.xhtml" href="Text/part109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part110.xhtml" href="Text/part110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part2.xhtml" href="Text/part2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part201.xhtml" href="Text/part201.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part202.xhtml" href="Text/part202.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part203.xhtml" href="Text/part203.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part204.xhtml" href="Text/part204.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part205.xhtml" href="Text/part205.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part206.xhtml" href="Text/part206.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part207.xhtml" href="Text/part207.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part208.xhtml" href="Text/part208.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part209.xhtml" href="Text/part209.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part210.xhtml" href="Text/part210.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part211.xhtml" href="Text/part211.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part212.xhtml" href="Text/part212.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part213.xhtml" href="Text/part213.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part214.xhtml" href="Text/part214.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part215.xhtml" href="Text/part215.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part3.xhtml" href="Text/part3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part301.xhtml" href="Text/part301.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part303.xhtml" href="Text/part303.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part304.xhtml" href="Text/part304.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part305.xhtml" href="Text/part305.xhtml" media-type="application/xhtml+xml"/>
+    <item id="footnote.xhtml" href="Text/footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendix.xhtml" href="Text/appendix.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part102.xhtml" href="Text/part102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Seoul02.jpg" href="Images/Seoul02.jpg" media-type="image/jpeg"/>
+    <item id="Seoul03.jpg" href="Images/Seoul03.jpg" media-type="image/jpeg"/>
+    <item id="Seoul29.jpg" href="Images/Seoul29.jpg" media-type="image/jpeg"/>
+    <item id="Seoul28.jpg" href="Images/Seoul28.jpg" media-type="image/jpeg"/>
+    <item id="Seoul27.jpg" href="Images/Seoul27.jpg" media-type="image/jpeg"/>
+    <item id="Seoul26.jpg" href="Images/Seoul26.jpg" media-type="image/jpeg"/>
+    <item id="Seoul25.jpg" href="Images/Seoul25.jpg" media-type="image/jpeg"/>
+    <item id="Seoul24.jpg" href="Images/Seoul24.jpg" media-type="image/jpeg"/>
+    <item id="Seoul21.jpg" href="Images/Seoul21.jpg" media-type="image/jpeg"/>
+    <item id="Seoul22.jpg" href="Images/Seoul22.jpg" media-type="image/jpeg"/>
+    <item id="Seoul23.jpg" href="Images/Seoul23.jpg" media-type="image/jpeg"/>
+    <item id="Seoul20.jpg" href="Images/Seoul20.jpg" media-type="image/jpeg"/>
+    <item id="Seoul19.jpg" href="Images/Seoul19.jpg" media-type="image/jpeg"/>
+    <item id="Seoul18.jpg" href="Images/Seoul18.jpg" media-type="image/jpeg"/>
+    <item id="Seoul17.jpg" href="Images/Seoul17.jpg" media-type="image/jpeg"/>
+    <item id="Seoul16.jpg" href="Images/Seoul16.jpg" media-type="image/jpeg"/>
+    <item id="Seoul15.jpg" href="Images/Seoul15.jpg" media-type="image/jpeg"/>
+    <item id="Seoul14.jpg" href="Images/Seoul14.jpg" media-type="image/jpeg"/>
+    <item id="Seoul13.jpg" href="Images/Seoul13.jpg" media-type="image/jpeg"/>
+    <item id="Seoul12.jpg" href="Images/Seoul12.jpg" media-type="image/jpeg"/>
+    <item id="Seoul11.jpg" href="Images/Seoul11.jpg" media-type="image/jpeg"/>
+    <item id="Seoul10.jpg" href="Images/Seoul10.jpg" media-type="image/jpeg"/>
+    <item id="Seoul09.jpg" href="Images/Seoul09.jpg" media-type="image/jpeg"/>
+    <item id="Seoul08.jpg" href="Images/Seoul08.jpg" media-type="image/jpeg"/>
+    <item id="Seoul07.jpg" href="Images/Seoul07.jpg" media-type="image/jpeg"/>
+    <item id="Seoul06.jpg" href="Images/Seoul06.jpg" media-type="image/jpeg"/>
+    <item id="Seoul05.jpg" href="Images/Seoul05.jpg" media-type="image/jpeg"/>
+    <item id="Seoul04.jpg" href="Images/Seoul04.jpg" media-type="image/jpeg"/>
+    <item id="NanumMyeongjo.ttf" href="Fonts/NanumMyeongjo.ttf" media-type="application/x-font-ttf"/>
+    <item id="NanumMyeongjoBold.ttf" href="Fonts/NanumMyeongjoBold.ttf" media-type="application/x-font-ttf"/>
+    <item id="NanumMyeongjoExtraBold.ttf" href="Fonts/NanumMyeongjoExtraBold.ttf" media-type="application/x-font-ttf"/>
+    <item id="part302.xhtml" href="Text/part302.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="author.xhtml"/>
+    <itemref idref="prologue.xhtml"/>
+    <itemref idref="note.xhtml"/>
+    <itemref idref="inside2.xhtml"/>
+    <itemref idref="part1.xhtml"/>
+    <itemref idref="part101.xhtml"/>
+    <itemref idref="part102.xhtml"/>
+    <itemref idref="part103.xhtml"/>
+    <itemref idref="part104.xhtml"/>
+    <itemref idref="part105.xhtml"/>
+    <itemref idref="part106.xhtml"/>
+    <itemref idref="part107.xhtml"/>
+    <itemref idref="part108.xhtml"/>
+    <itemref idref="part109.xhtml"/>
+    <itemref idref="part110.xhtml"/>
+    <itemref idref="part2.xhtml"/>
+    <itemref idref="part201.xhtml"/>
+    <itemref idref="part202.xhtml"/>
+    <itemref idref="part203.xhtml"/>
+    <itemref idref="part204.xhtml"/>
+    <itemref idref="part205.xhtml"/>
+    <itemref idref="part206.xhtml"/>
+    <itemref idref="part207.xhtml"/>
+    <itemref idref="part208.xhtml"/>
+    <itemref idref="part209.xhtml"/>
+    <itemref idref="part210.xhtml"/>
+    <itemref idref="part211.xhtml"/>
+    <itemref idref="part212.xhtml"/>
+    <itemref idref="part213.xhtml"/>
+    <itemref idref="part214.xhtml"/>
+    <itemref idref="part215.xhtml"/>
+    <itemref idref="part3.xhtml"/>
+    <itemref idref="part301.xhtml"/>
+    <itemref idref="part302.xhtml"/>
+    <itemref idref="part303.xhtml"/>
+    <itemref idref="part304.xhtml"/>
+    <itemref idref="part305.xhtml"/>
+    <itemref idref="footnote.xhtml"/>
+    <itemref idref="appendix.xhtml"/>
+    <itemref idref="bookinfo.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>
