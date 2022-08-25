@@ -45,9 +45,9 @@
   <author>
     <name>알맹상점</name>
   </author>
-  <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/Almaeng_Refil_20220706/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
-  <link type="application/epub" href="Almaeng_Refil_20220706" rel="http://opds-spec.org/acquisition"/>
-  <updated>2022-07-07T00:00:00Z</updated>
+  <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/Almaeng_Refil_20220801/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+  <link type="application/epub" href="Almaeng_Refil_20220801" rel="http://opds-spec.org/acquisition"/>
+  <updated>2022-08-25T00:00:00Z</updated>
   <id>READIUM_OPDS_0123456789_4</id>
 </entry>
   
