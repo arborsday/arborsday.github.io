@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'KoPubWorldBatangBold';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../Fonts/KoPubWorldBatangBold.ttf');
+}
+
+@font-face {
+    font-family: 'KoPubWorldBatangLight';
+    font-weight: 300;
+    font-style: normal;
+    src: url('../Fonts/KoPubWorldBatangLight.ttf');
+}
+
+
+h1 { /*Title1 Font Setting*/
+font-family: KoPubWorldBatangBold;
+font-size: 1.6em;
+text-align: center; /*justify, left, right, center*/
+color: #773b18;
+margin-top: 20%;
+margin-bottom: 30%;
+text-shadow: 2px 2px 12px bisque;
+}
+
+h2 { /*Title2 Font Setting*/
+font-family: KoPubWorldBatangBold;
+font-size: 1.3em;
+color: rgb(119,59,24);
+text-align: right;
+margin-top: 30%;
+margin-bottom: 20%;
+}
+
+h3 { /*Title3 Font Setting*/
+font-family: KoPubWorldBatangBold;
+font-size: 1.3em;
+color: burlywood;
+margin-top: 20%;
+margin-bottom: 10%;
+}
+
+
+div { /*Paragraph Font Setting*/
+font-family: KoPubWorldBatangLight;
+font-size: 1em;
+line-height: 2.2em;
+text-align: justify; /*justify, left, right, center*/
+color: rgb(88,42,12);
+}
+
+
+p { /*Paragraph Font Setting*/
+font-family: KoPubWorldBatangLight;
+font-size: 1em;
+line-height: 2.2em;
+text-align: justify; /*justify, left, right, center*/
+color: rgb(88,42,12);
+/*text-indent:1em;*/
+}
+
+span { /*특정 글자 스타일 주기*/
+font-family: KoPubWorldBatangBold;
+}
+
+.insidetxt { /*class로 지정한 태그에 대한 명*/
+font-family: KoPubWorldBatangLight;
+font-size: 1.2em;
+color: burlywood;
+text-align: center;
+border-bottom: 3px solid burlywood;
+width: 70%;
+margin-left: auto; /*width와 항상 같이 쓸것*/
+margin-right: auto;
+/*border-align: center;*/
+/*text-decoration: underline;*/
+margin-top: 50%;
+}
+
+.writer { /*도서안내 body태그*/
+margin-left: 10%;
+margin-right: 10%;
+}
+
+img {
+width: 100%;
+}
+
+.divide {
+border: 1px dotted burlywood;
+border-radius: 2em;
+width: 40%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 40%;
+margin-bottom: 40%;
+}
+
+a {
+text-decoration:none;
+color:red;
+}
+
+#bookinfotitle {
+font-family: KoPubWorldBatangBold;
+font-size: 1.2em;
+border-left: 3px solid rgb(88,42,12);
+padding-left: 0.5em;
+}

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:e315ae25-e5c7-48fe-8df5-86d6c3f290ac" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>경성:서울, 그 곳</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>작가 &amp; 엮은이 소개</text>
+      </navLabel>
+      <content src="Text/author.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>프롤로그</text>
+      </navLabel>
+      <content src="Text/prologue.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>일러두기</text>
+      </navLabel>
+      <content src="Text/note.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>경성:서울의 밝음</text>
+      </navLabel>
+      <content src="Text/part1.xhtml#sigil_toc_id_1"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>권태응/ 서울구경-61</text>
+        </navLabel>
+        <content src="Text/part101.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>박용철/ 서울</text>
+        </navLabel>
+        <content src="Text/part102.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>김복진/ 경성 각 상점 간판 품평회</text>
+        </navLabel>
+        <content src="Text/part103.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>방정환/ 시골쥐 서울 구경</text>
+        </navLabel>
+        <content src="Text/part104.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>나혜석/ 경성(京城) 온 감상(感想) 일편(一片)</text>
+        </navLabel>
+        <content src="Text/part105.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>권환/ 문인이 본 서울</text>
+        </navLabel>
+        <content src="Text/part106.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>이광수/ 서울열흘</text>
+        </navLabel>
+        <content src="Text/part107.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>나혜석/ 일년(一年)만에 본 경성(京城)의 잡감(雜感)</text>
+        </navLabel>
+        <content src="Text/part108.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>권환/ 평범하고도 긴급한 문제</text>
+        </navLabel>
+        <content src="Text/part109.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>임화/ 양말 속의 편지</text>
+        </navLabel>
+        <content src="Text/part110.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>경성:서울의 어둠</text>
+      </navLabel>
+      <content src="Text/part2.xhtml"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>홍난파/ 서울 계신 K형께</text>
+        </navLabel>
+        <content src="Text/part201.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>최남선/ 개천절(開天節) (계사(癸巳))</text>
+        </navLabel>
+        <content src="Text/part202.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>오장환/ 병든 서울</text>
+        </navLabel>
+        <content src="Text/part203.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>오장환/ 연안(延安)서 오는 동무 심(沈)에게</text>
+        </navLabel>
+        <content src="Text/part204.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>여운형/ 미소공위에 관한 담화</text>
+        </navLabel>
+        <content src="Text/part205.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>김정식/ 서울밤</text>
+        </navLabel>
+        <content src="Text/part206.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>여운형/ 테러후의 기자회견</text>
+        </navLabel>
+        <content src="Text/part207.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>최남선/ 서울 공습(空襲)</text>
+        </navLabel>
+        <content src="Text/part208.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>최남선/ 서울 속(續)</text>
+        </navLabel>
+        <content src="Text/part209.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>노천명/ 서울 체류(滯留)기</text>
+        </navLabel>
+        <content src="Text/part210.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>박인환/ 서울돌입!</text>
+        </navLabel>
+        <content src="Text/part211.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>박인환/ 서울 탈환 명령을 고대 6185부대 한강 연안 대기</text>
+        </navLabel>
+        <content src="Text/part212.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>최남선/ 삼월(三月) 오일(五日) 서울 재탈환(再奪還)</text>
+        </navLabel>
+        <content src="Text/part213.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>최남선/ 삼월(三月) 십이일(十二日) 적군(敵軍) 서울 퇴각(退却) 개시(開始)</text>
+        </navLabel>
+        <content src="Text/part214.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>박인환/ 서울에서 남대문까지</text>
+        </navLabel>
+        <content src="Text/part215.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>경성:서울의 다시, 새벽</text>
+      </navLabel>
+      <content src="Text/part3.xhtml"/>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>박인환/ 즐겁지 않은 계절</text>
+        </navLabel>
+        <content src="Text/part301.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>설정식/ 서울</text>
+        </navLabel>
+        <content src="Text/part302.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>오장환/ 어머니 서울에 오시다</text>
+        </navLabel>
+        <content src="Text/part303.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>이효석/ 서울 개조안(改造案)</text>
+        </navLabel>
+        <content src="Text/part304.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>이원록/ 서울 문장(文章)</text>
+        </navLabel>
+        <content src="Text/part305.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>주석</text>
+      </navLabel>
+      <content src="Text/footnote.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>부록/ 화보 "경성안내"</text>
+      </navLabel>
+      <content src="Text/appendix.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>도서안내</text>
+      </navLabel>
+      <content src="Text/bookinfo.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
