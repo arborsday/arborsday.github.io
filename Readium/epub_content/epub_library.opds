@@ -61,5 +61,16 @@
   <updated>2022-07-19T00:00:00Z</updated>
   <id>READIUM_OPDS_0123456789_5</id>
 </entry>
+  
+   <entry>
+  <title>경성, 서울 그 곳 30선</title>
+  <author>
+    <name>경성, 서울 그 곳 30선</name>
+  </author>
+  <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/Book1Seoul20220831/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+  <link type="application/epub" href="Book1Seoul20220831" rel="http://opds-spec.org/acquisition"/>
+  <updated>2022-08-31T00:00:00Z</updated>
+  <id>READIUM_OPDS_0123456789_5</id>
+</entry>
 
 </feed>
