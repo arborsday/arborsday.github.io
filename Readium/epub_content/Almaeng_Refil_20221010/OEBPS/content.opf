@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>ko</dc:language>
+    <dc:title>우리 동네에서 세제 소분샵 '알맹'을 꿈꾸는 분들께 건네는 안내서</dc:title>
+    <dc:creator opf:role="">알맹상점</dc:creator>
+    <meta content="1.9.20" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2022-10-10</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:34f66647-8cdd-4502-8a65-d048e3e044a9</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="toc.xhtml" href="Text/toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="NanumSquareR.ttf" href="Fonts/NanumSquareR.ttf" media-type="font/ttf"/>
+    <item id="NanumSquareL.ttf" href="Fonts/NanumSquareL.ttf" media-type="font/ttf"/>
+    <item id="NanumSquareEB.ttf" href="Fonts/NanumSquareEB.ttf" media-type="font/ttf"/>
+    <item id="NanumSquareB.ttf" href="Fonts/NanumSquareB.ttf" media-type="font/ttf"/>
+    <item id="NanumSquare_acR.ttf" href="Fonts/NanumSquare_acR.ttf" media-type="font/ttf"/>
+    <item id="NanumSquare_acL.ttf" href="Fonts/NanumSquare_acL.ttf" media-type="font/ttf"/>
+    <item id="NanumSquare_acEB.ttf" href="Fonts/NanumSquare_acEB.ttf" media-type="font/ttf"/>
+    <item id="NanumSquare_acB.ttf" href="Fonts/NanumSquare_acB.ttf" media-type="font/ttf"/>
+    <item id="Ch_01.xhtml" href="Text/Ch_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="img_004.png" href="Images/img_004.png" media-type="image/png"/>
+    <item id="img_018.jpg" href="Images/img_018.jpg" media-type="image/jpeg"/>
+    <item id="img_017.jpg" href="Images/img_017.jpg" media-type="image/jpeg"/>
+    <item id="img_016.png" href="Images/img_016.png" media-type="image/png"/>
+    <item id="img_015.jpg" href="Images/img_015.jpg" media-type="image/jpeg"/>
+    <item id="img_014.jpg" href="Images/img_014.jpg" media-type="image/jpeg"/>
+    <item id="img_013.jpg" href="Images/img_013.jpg" media-type="image/jpeg"/>
+    <item id="img_012.png" href="Images/img_012.png" media-type="image/png"/>
+    <item id="img_011.jpg" href="Images/img_011.jpg" media-type="image/jpeg"/>
+    <item id="img_010.jpg" href="Images/img_010.jpg" media-type="image/jpeg"/>
+    <item id="img_009.png" href="Images/img_009.png" media-type="image/png"/>
+    <item id="img_007.png" href="Images/img_007.png" media-type="image/png"/>
+    <item id="img_008.jpg" href="Images/img_008.jpg" media-type="image/jpeg"/>
+    <item id="img_006.png" href="Images/img_006.png" media-type="image/png"/>
+    <item id="img_005.png" href="Images/img_005.png" media-type="image/png"/>
+    <item id="img_002.jpg" href="Images/img_002.jpg" media-type="image/jpeg"/>
+    <item id="img_001.png" href="Images/img_001.png" media-type="image/png"/>
+    <item id="Ch_02.xhtml" href="Text/Ch_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ch_03.xhtml" href="Text/Ch_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ch_04.xhtml" href="Text/Ch_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ch_05.xhtml" href="Text/Ch_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="img_003.png" href="Images/img_003.png" media-type="image/png"/>
+    <item id="Ch_06.xhtml" href="Text/Ch_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ch_07.xhtml" href="Text/Ch_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ch_08.xhtml" href="Text/Ch_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ch_09.xhtml" href="Text/Ch_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ch_10.xhtml" href="Text/Ch_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendix.xhtml" href="Text/appendix.xhtml" media-type="application/xhtml+xml"/>
+    <item id="NanumBarunpenR.ttf" href="Fonts/NanumBarunpenR.ttf" media-type="font/ttf"/>
+    <item id="NanumBarunpenB.ttf" href="Fonts/NanumBarunpenB.ttf" media-type="font/ttf"/>
+    <item id="NanumMyeongjo.ttf" href="Fonts/NanumMyeongjo.ttf" media-type="font/ttf"/>
+    <item id="bookinfo.xhtml" href="Text/bookinfo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="img_019.png" href="Images/img_019.png" media-type="image/png"/>
+    <item id="cap.jpg" href="Images/cap.jpg" media-type="image/jpeg"/>
+    <item id="eco.png" href="Images/eco.png" media-type="image/png"/>
+    <item id="handmade.jpg" href="Images/handmade.jpg" media-type="image/jpeg"/>
+    <item id="seoul_zeromarket.png" href="Images/seoul_zeromarket.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="Ch_01.xhtml"/>
+    <itemref idref="Ch_02.xhtml"/>
+    <itemref idref="Ch_03.xhtml"/>
+    <itemref idref="Ch_04.xhtml"/>
+    <itemref idref="Ch_05.xhtml"/>
+    <itemref idref="Ch_06.xhtml"/>
+    <itemref idref="Ch_07.xhtml"/>
+    <itemref idref="Ch_08.xhtml"/>
+    <itemref idref="Ch_09.xhtml"/>
+    <itemref idref="Ch_10.xhtml"/>
+    <itemref idref="appendix.xhtml"/>
+    <itemref idref="bookinfo.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="표지" href="Text/cover.xhtml"/>
+  </guide>
+</package>
