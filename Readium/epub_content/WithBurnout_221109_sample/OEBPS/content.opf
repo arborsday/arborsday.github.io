@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>ko</dc:language>
+    <dc:title>01_basic</dc:title>
+    <meta content="1.9.20" name="Sigil version"/>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:42f6765a-3dc7-4ab8-b3e3-d016bd71cac4</dc:identifier>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2022-11-09</dc:date>
+    <meta name="cover" content="cover.png"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KoPubWorld_Batang_Bold.ttf" href="Fonts/KoPubWorld_Batang_Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorld_Batang_Light.ttf" href="Fonts/KoPubWorld_Batang_Light.ttf" media-type="application/x-font-ttf"/>
+    <item id="x04_style_color_1.css" href="Styles/04_style_color_1.css" media-type="text/css"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KoPubWorld_Dotum_Bold.ttf" href="Fonts/KoPubWorld_Dotum_Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="KoPubWorld_Dotum_Light.ttf" href="Fonts/KoPubWorld_Dotum_Light.ttf" media-type="application/x-font-ttf"/>
+    <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="writer.jpg" href="Images/writer.jpg" media-type="image/jpeg"/>
+    <item id="writer.xhtml" href="Text/writer.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.png" href="Images/cover.png" media-type="image/png"/>
+    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="writer.xhtml"/>
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+  </spine>
+</package>
