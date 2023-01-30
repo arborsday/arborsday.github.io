@@ -73,15 +73,5 @@
   <id>READIUM_OPDS_0123456789_6</id>
 </entry>
 
-   <entry>
-  <title>LooseNum_230117</title>
-  <author>
-    <name>LooseNum_230117</name>
-  </author>
-  <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/LooseNum_230117/OEBPS/Images/cover.png" rel="http://opds-spec.org/image/thumbnail"/>
-  <link type="application/epub" href="LooseNum_230117" rel="http://opds-spec.org/acquisition"/>
-  <updated>2023-01-17T00:00:00Z</updated>
-  <id>READIUM_OPDS_0123456789_7</id>
-</entry>
 
 </feed>
