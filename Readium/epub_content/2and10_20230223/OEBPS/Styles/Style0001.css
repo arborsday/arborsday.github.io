@@ -1,0 +1,356 @@
+@font-face {
+  font-family: 'KoPubWorldBatangBold';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../Fonts/KoPubWorldBatangBold.ttf');
+}
+
+@font-face {
+  font-family: 'KoPubWorldBatangLight';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../Fonts/KoPubWorldBatangLight.ttf');
+}
+
+@font-face {
+  font-family: 'KoPubWorldBatangMedium';
+  font-weight: 500;
+  font-style: normal;
+  src: url('../Fonts/KoPubWorldBatangMedium.ttf');
+}
+
+@font-face {
+  font-family: 'KoPubWorldDotumBold';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../Fonts/KoPubWorldDotumBold.ttf');
+}
+
+@font-face {
+  font-family: 'KoPubWorldDotumLight';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../Fonts/KoPubWorldDotumLight.ttf');
+}
+
+@font-face {
+  font-family: 'KoPubWorldDotumMedium';
+  font-weight: 500;
+  font-style: normal;
+  src: url('../Fonts/KoPubWorldDotumMedium.ttf');
+}
+
+@font-face {
+  font-family: 'KCCChassam';
+  src: url('../Fonts/KCCChassam.ttf');
+}
+
+@font-face {
+  font-family: 'KCCKimhoon';
+  src: url('../Fonts/KCCKimhoon.ttf');
+}
+
+@font-face {
+  font-family: 'Cafe24Shiningstar';
+  src: url('../Fonts/Cafe24Shiningstar.ttf');
+}
+
+*,::before,::after {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 0.5em;
+}
+
+.cover {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  text-indent: 0;
+  text-align: center;
+  display: block;
+  box-orient: horizontal;
+  box-pack: center;
+  box-align: center;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+  display: -moz-box;
+  -moz-box-orient: horizontal;
+  -moz-box-pack: center;
+  -moz-box-align: center;
+}
+
+img.cover {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+
+h1 {
+  font-family: 'KoPubWorldBatangLight';
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 1em;
+  margin: 0 0 2em 0 !important;
+}
+
+h2 > span.line {
+  display: block;
+  border-left: 3px solid #B4CAE8;
+  padding-left: 0.4em;
+  color: #007BC2;
+  font-size: 1em;
+}
+
+h2 > span.txt_right {
+  display: block;
+  color: black;
+  font-family: 'Cafe24Shiningstar';
+  font-size: 1.6em;
+  line-height: 1.6em;
+}
+
+h3 {
+  font-family: 'KCCKimhoon';
+  font-size: 1.8em;
+}
+
+h3 > span {
+  display: block;
+  background: #B4CBE8;
+  width: 3.2em;
+  height: 7.2em;
+  margin: 0 auto;
+  padding: 0.5em;
+}
+
+.vl_white {
+  background: linear-gradient(white, white) no-repeat center/3px 7.4em;
+  width: 3px;
+  height: 7.4em;
+  position: relative;
+  left: 50%;
+  margin: 1em 0 !important;
+}
+
+p {
+  font-family: 'KoPubWorldBatangLight';
+  font-size: 1em;
+  line-height: 2.2em;
+  text-align: left;
+  color: black;
+  margin: 0 0 1.4em 0 !important;
+  text-indent: 1em;
+}
+
+.nm {
+  margin: 0 !important;
+}
+
+.wb_ka {
+  word-break: keep-all;
+}
+
+.smaller {
+  font-size: 0.8em;
+  line-height: 1.8em;
+}
+
+.bigger {
+  font-size: 1.4em;
+}
+
+.gothic {
+  font-family: 'KoPubWorldDotumMedium';
+}
+
+.blue {
+  color: #007BC2;
+}
+
+.blue_bg {
+  background: #B4CBE8;
+}
+
+strong {
+  font-size: 1.2em;
+}
+
+strong.icon {
+  font-size: 4em;
+}
+
+sub {
+  font-size: 0.75em;
+  line-height: 0.8rem;
+  vertical-align: baseline;
+}
+
+.underline {
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+.txt_right {
+  text-align: right;
+}
+
+.txt_left {
+  text-align: left;
+}
+
+.txt_center {
+  text-align: center;
+}
+
+.txt_indent0 {
+  text-indent: 0;
+}
+
+.handwriting {
+  font-family: 'KCCChassam';
+}
+
+.handstar {
+  font-family: 'Cafe24Shiningstar';
+}
+
+.w90 {
+  width: 90%;
+  margin: 0 auto !important;
+}
+
+.vl {
+  display: block;
+  background: linear-gradient(#5998D1, #5998D1) no-repeat center/1.5px 5.4em;
+  margin: 0 0 0.4em 0 !important;
+}
+
+ul, ol, li {
+  font-family: 'KoPubWorldBatangLight';
+  font-size: 1em;
+  line-height: 2.2em;
+  text-align: left;
+  color: black;
+  text-indent: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #24FF00;
+}
+
+.box_note {
+  position: fixed;
+  bottom: 2em;
+  margin-right: 1em;
+}
+
+div.box_middle {
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-item: center;
+  height: 80vh;
+  box-sizing: border-box;
+}
+
+div.thanksto {
+  width: 80%;
+  margin: 1em auto !important;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+}
+
+div.thanksto > p {
+  text-align: center;
+  font-family: 'KCCChassam';
+  line-height: 1.6em;
+}
+
+div.prayer > p {
+  text-align: center;
+}
+
+div.box_round {
+  background: #CCDBF0;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px lightgray;
+  padding: 1em;
+}
+
+div.box_round p {
+  text-indent: 0;
+}
+
+div.box_round_dotted {
+  border-radius: 10px;
+  border: 2px dotted #5B97D1;
+  padding: 1em;
+}
+
+div.box_flexw {
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+}
+
+div.box_flexw > span {
+  display: inline-block;
+}
+
+span.rect {
+  display: inline-block;
+  background: white;
+  border-radius: 4px;
+  width: 4em;
+  height: 2em;
+  margin: 0 0.4em !important;
+}
+
+.word_bubble {
+  background-image: url("../Images/word_bubble.png");
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+}
+
+/*Bookinfo*/
+.bookinfo h1 {
+  display: inline-block;
+  text-indent: 0;
+  text-align: left;
+  font-size: 1.4em;
+  line-height: 2em;
+  border-bottom: 1px solid black;
+  margin: 1em 0;
+}
+
+.bookinfo p {
+  font-family: 'KoPubWorldDotumLight';
+  text-indent: 0;
+  text-align: left;
+  font-size: 0.8em;
+  line-height: 2em;
+  margin: 0 !important;
+}
+
+.bookinfo p > span {
+  display: inline-block;
+  width: 4.8em;
+  color: black;
+  margin-right: 1em;
+  text-align: justify;
+  text-justify: inter-cluster;
+  font-family: 'KoPubWorldDotumBold';
+}

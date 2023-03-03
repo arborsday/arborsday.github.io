@@ -70,7 +70,18 @@
   <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/Book1Seoul20220831/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
   <link type="application/epub" href="Book1Seoul20220831" rel="http://opds-spec.org/acquisition"/>
   <updated>2022-08-31T00:00:00Z</updated>
-  <id>READIUM_OPDS_0123456789_5</id>
+  <id>READIUM_OPDS_0123456789_6</id>
+</entry>
+
+   <entry>
+  <title>두배힘든열배기쁜합</title>
+  <author>
+    <name>두배힘든열배기쁜합</name>
+  </author>
+  <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/2and10_20230223/OEBPS/Images/cover.png" rel="http://opds-spec.org/image/thumbnail"/>
+  <link type="application/epub" href="2and10_20230223" rel="http://opds-spec.org/acquisition"/>
+  <updated>2023-03-03T00:00:00Z</updated>
+  <id>READIUM_OPDS_0123456789_7</id>
 </entry>
 
 </feed>
