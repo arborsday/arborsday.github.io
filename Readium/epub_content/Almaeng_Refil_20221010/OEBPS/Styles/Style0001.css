@@ -1,0 +1,360 @@
+/*coded by arborsday: alynk@naver.com*/
+@font-face {
+  font-family: 'NanumBarunpenB';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../Fonts/NanumBarunpenB.ttf');
+}
+
+@font-face {
+  font-family: 'NanumBarunpenR';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../Fonts/NanumBarunpenR.ttf');
+}
+
+@font-face {
+  font-family: 'NanumSquareB';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../Fonts/NanumSquareB.ttf');
+}
+
+@font-face {
+  font-family: 'NanumSquareEB';
+  font-weight: 800;
+  font-style: normal;
+  src: url('../Fonts/NanumSquareEB.ttf');
+}
+
+@font-face {
+  font-family: 'NanumSquareL';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../Fonts/NanumSquareL.ttf');
+}
+
+@font-face {
+  font-family: 'NanumSquareR';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../Fonts/NanumSquareR.ttf');
+}
+
+@font-face {
+  font-family: 'NanumSquare_acB';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../Fonts/NanumSquare_acB.ttf');
+}
+
+@font-face {
+  font-family: 'NanumSquare_acEB';
+  font-weight: 800;
+  font-style: normal;
+  src: url('../Fonts/NanumSquare_acEB.ttf');
+}
+
+@font-face {
+  font-family: 'NanumSquare_acL';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../Fonts/NanumSquare_acL.ttf');
+}
+
+@font-face {
+  font-family: 'NanumSquare_acR';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../Fonts/NanumSquare_acR.ttf');
+}
+
+@font-face {
+  font-family: 'NanumMyeongjo';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../Fonts/NanumMyeongjo.ttf');
+}
+
+*,::before,::after {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 0.5em;
+}
+
+.cover {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  text-indent: 0;
+  text-align: center;
+  display: block;
+  box-orient: horizontal;
+  box-pack: center;
+  box-align: center;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+  display: -moz-box;
+  -moz-box-orient: horizontal;
+  -moz-box-pack: center;
+  -moz-box-align: center;
+}
+
+img.cover {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+
+span {
+  line-height: 2em;
+}
+
+h3 {
+  color: #25408f;
+  font-family: "NanumSquareL";
+  font-size: 4em;
+  margin: 0.8em 0;
+}
+
+h3 > span.default {
+  display: inline;
+  padding: 0.1em 0;
+  font-size: 50%;
+}
+
+h3 span.underline_h {
+  padding: 0.1em 0;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+h3 span.yellow {
+  display: inline;
+  background-color: yellow;
+  padding: 0.1em 0;
+}
+
+h4 {
+  color: #25408f;
+  font-family: "NanumSquareEB";
+  font-size: 1em;
+  line-height: 2em;
+  margin: 0.8em 0;
+}
+
+h5:before {
+  content: '| ';
+}
+
+h5 {
+  color: #25408f;
+  font-family: "NanumSquareEB";
+  font-size: 1em;
+  line-height: 2em;
+}
+
+h6 {
+  color: #25408f;
+  font-family: "NanumBarunpenR";
+  font-size: 1.4em;
+  line-height: 1.2em;
+  margin: 1.2em 0;
+}
+
+h6 > span {
+  display: block;
+  font-size: 1.4em;
+  padding: 0.4em 0;
+  border-bottom: 1px solid #25408f;
+}
+
+p {
+  color: #25408f;
+  font-family: 'NanumSquareR';
+  font-size: 1em;
+  line-height: 2em;
+  text-align: left;
+  text-indent: 0;
+  word-break: all;
+  margin-bottom: 2em;
+}
+
+p.caption {
+  font-family: 'NanumSquareEB';
+  font-size: 0.74em;
+}
+
+span.underline {
+  font-family: 'NanumSquareB';
+  border-bottom: 2px dotted #25408f;
+  padding-bottom: 0.1em;
+}
+
+sup {
+  font-size: 0.6em;
+  line-height: 0.8rem;
+}
+
+div.toc {
+  background-color: #fff200;
+  color: #25408f;
+  font-family: "NanumSquareL";
+  padding: 2em;
+}
+
+ol a {
+  color: #25408f;
+}
+
+ol#chtoc {
+  counter-reset: li;
+  padding-left: 1.5em;
+}
+
+ol#chtoc li {
+  color: #25408f;
+  font-family: "NanumSquareR";
+  font-size: 1em;
+  line-height: 1.4em;
+  text-align: left;
+  text-indent: 0;
+  margin: 1em 0;
+}
+
+ol#appendixtoc {
+  counter-reset: li;
+}
+
+ol#appendixtoc li {
+  font-family: "NanumSquareR";
+  list-style-type: none;
+  counter-increment: li;
+  line-height: 1.4em;
+  margin: 1em 0;
+}
+
+ol#appendixtoc li:before {
+  content: "부록" " " counter(li) " |";
+  margin-right: 0.5em;
+}
+
+div#ch08box {
+  border: 8px solid yellow;
+  padding: 1em;
+}
+
+ol#ch08 {
+  counter-reset: li;
+  padding-left: 1.5em;
+}
+
+ol#ch08 li {
+  color: #25408f;
+  font-family: "NanumBarunpenR";
+  font-size: 1em;
+  line-height: 1.4em;
+  text-align: left;
+  text-indent: 0;
+  margin: 1em 0;
+}
+
+ol#ch10 {
+  counter-reset: li;
+  padding-left: 1.2em;
+}
+
+ol#ch10 li {
+  color: #25408f;
+  font-family: "NanumBarunpenR";
+  font-size: 1em;
+  line-height: 1.6em;
+  text-align: left;
+  text-indent: 0;
+  margin: 1em 0;
+}
+
+div#appendix5 > p {
+  margin: 0;
+  font-family: 'NanumMyeongjo';
+  text-indent: 2em;
+}
+
+div#appendix5 > h5 {
+  margin: 1.4em 0 0.4em 0;
+}
+
+div.wrap {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+div.wrap_left {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  text-align: left;
+  page-break-inside: avoid;
+}
+
+.wrap img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+div.wrap p {
+  font-size: 0.8em;
+  text-align: center;
+}
+
+@media screen and (orientation: landscape) {
+  div.wrap::before {
+    page-break-before: always;
+  }
+
+  div.wrap {
+    width: 100%;
+    text-align: center;
+    page-break-inside: avoid;
+  }
+
+  .wrap img {
+    width: auto;
+    max-height: 80vh;
+    object-fit: contain;
+    page-break-inside: avoid;
+    margin: 0 auto;
+  }
+}
+
+.img_center_60 {
+	text-align : center;
+	margin-top : 1em;
+	margin-bottom : 1em;
+	width : 100%;
+}
+
+.img_center_60 img {
+	width : 60%;
+	max-width : 100%;
+	min-width : 200px;
+	height : auto;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+.hidden {
+  display: none;
+}

@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_120f4a56e71a05b11ef0ebb532a00af3 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_120f4a56e71a05b11ef0ebb532a00af3" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_120f4a56e71a05b11ef0ebb532a00af3 = L.map(
+                "map_120f4a56e71a05b11ef0ebb532a00af3",
+                {
+                    center: [37.5181205, 126.8865285],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 14,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e6350be184cf7b39fcf2cd7a4d082ffb = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var marker_d5f14e773c22dc71cd252011aa1de281 = L.marker(
+                [37.53324476887157, 126.90229109809843],
+                {}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var icon_391c9ef4ec9a9fe9f964f000ca5266db = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_d5f14e773c22dc71cd252011aa1de281.setIcon(icon_391c9ef4ec9a9fe9f964f000ca5266db);
+        
+    
+        var popup_a2117c090a061438fa182edad4957b82 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5045a61bf475ed474e3f6adda54b3b87 = $(`<div id="html_5045a61bf475ed474e3f6adda54b3b87" style="width: 100.0%; height: 100.0%;"><pre><b>가족사랑서울정신건강의학과의원</b></br>당산로 222</br>당산디오빌 2층</br>02.2068.7486</pre></div>`)[0];
+                popup_a2117c090a061438fa182edad4957b82.setContent(html_5045a61bf475ed474e3f6adda54b3b87);
+            
+        
+
+        marker_d5f14e773c22dc71cd252011aa1de281.bindPopup(popup_a2117c090a061438fa182edad4957b82)
+        ;
+
+        
+    
+    
+            var marker_f1935542254ed1c7151e5ef22d546286 = L.marker(
+                [37.51688467688713, 126.90681120702385],
+                {}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var icon_f6639bcb32096fa0c5be8667b61c6213 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_f1935542254ed1c7151e5ef22d546286.setIcon(icon_f6639bcb32096fa0c5be8667b61c6213);
+        
+    
+        var popup_3655326c01cf474502f2b0838efd1dcc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1bff42dae00450a1936a0ab507f1513a = $(`<div id="html_1bff42dae00450a1936a0ab507f1513a" style="width: 100.0%; height: 100.0%;"><pre><b>같은마음정신건강의학과의원</b></br>영중로2길 1</br>대선빌딩 12층 (영등포동3가)</br>02.2677.7582</pre></div>`)[0];
+                popup_3655326c01cf474502f2b0838efd1dcc.setContent(html_1bff42dae00450a1936a0ab507f1513a);
+            
+        
+
+        marker_f1935542254ed1c7151e5ef22d546286.bindPopup(popup_3655326c01cf474502f2b0838efd1dcc)
+        ;
+
+        
+    
+    
+            var marker_7ad0a513e3b2dc5c5829bf7acc622be6 = L.marker(
+                [37.533111999525275, 126.90412614816063],
+                {}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var icon_69ca73f0f74ed49254bdd5eb16b7a91d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_7ad0a513e3b2dc5c5829bf7acc622be6.setIcon(icon_69ca73f0f74ed49254bdd5eb16b7a91d);
+        
+    
+        var popup_4274fdf65176fcde1728bf7a43ac70b2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fa9b2507f9d03ca78916a45c1de76086 = $(`<div id="html_fa9b2507f9d03ca78916a45c1de76086" style="width: 100.0%; height: 100.0%;"><pre><b>그래정신건강의학과의원</b></br>양평로 20</br>Tower020, 2층</br>02.2635.8277</pre></div>`)[0];
+                popup_4274fdf65176fcde1728bf7a43ac70b2.setContent(html_fa9b2507f9d03ca78916a45c1de76086);
+            
+        
+
+        marker_7ad0a513e3b2dc5c5829bf7acc622be6.bindPopup(popup_4274fdf65176fcde1728bf7a43ac70b2)
+        ;
+
+        
+    
+    
+            var marker_0f5298d29643a20dafa12c15b8f22fe8 = L.marker(
+                [37.534467478997286, 126.90164585919194],
+                {}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var icon_481888027fd9bfbb97d028f5c5bc2b24 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_0f5298d29643a20dafa12c15b8f22fe8.setIcon(icon_481888027fd9bfbb97d028f5c5bc2b24);
+        
+    
+        var popup_30012b454ea30b4e6219107b7457a58d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f5442cc304d1d27620db1355240b06b2 = $(`<div id="html_f5442cc304d1d27620db1355240b06b2" style="width: 100.0%; height: 100.0%;"><pre><b>당산숲정신건강의학과의원</b></br>양평로 46</br>세바빌딩 4층</br>02.2088.0869</pre></div>`)[0];
+                popup_30012b454ea30b4e6219107b7457a58d.setContent(html_f5442cc304d1d27620db1355240b06b2);
+            
+        
+
+        marker_0f5298d29643a20dafa12c15b8f22fe8.bindPopup(popup_30012b454ea30b4e6219107b7457a58d)
+        ;
+
+        
+    
+    
+            var marker_52736f505db0036df3aa7e2260c63e40 = L.marker(
+                [37.536477291740695, 126.89607164212322],
+                {}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var icon_29ee70e1c83376f1c7b0dfaf8e867fac = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_52736f505db0036df3aa7e2260c63e40.setIcon(icon_29ee70e1c83376f1c7b0dfaf8e867fac);
+        
+    
+        var popup_d69912c49743fc45af0dc62c9a705939 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d8dc131165b7a01a070dfe1803a52fec = $(`<div id="html_d8dc131165b7a01a070dfe1803a52fec" style="width: 100.0%; height: 100.0%;"><pre><b>라엘정신건강의학과의원</b></br>양평로 99</br>대명빌딩 10층</br>02.6909.9870</pre></div>`)[0];
+                popup_d69912c49743fc45af0dc62c9a705939.setContent(html_d8dc131165b7a01a070dfe1803a52fec);
+            
+        
+
+        marker_52736f505db0036df3aa7e2260c63e40.bindPopup(popup_d69912c49743fc45af0dc62c9a705939)
+        ;
+
+        
+    
+    
+            var marker_237e4e6fdade543620b408b32aefc8a8 = L.marker(
+                [37.5208724930514, 126.93129818277959],
+                {}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var icon_5cda3462ebbd07b9fd0589990f8e813e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_237e4e6fdade543620b408b32aefc8a8.setIcon(icon_5cda3462ebbd07b9fd0589990f8e813e);
+        
+    
+        var popup_3dd6653c3cf03374f1a281f9b0234fa8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f8180f7e4dd3af683bd258b6c9755f30 = $(`<div id="html_f8180f7e4dd3af683bd258b6c9755f30" style="width: 100.0%; height: 100.0%;"><pre><b>라임정신건강의학과의원</b></br>국제금융로 78</br>홍우빌딩 301호</br>02.6105.7520</pre></div>`)[0];
+                popup_3dd6653c3cf03374f1a281f9b0234fa8.setContent(html_f8180f7e4dd3af683bd258b6c9755f30);
+            
+        
+
+        marker_237e4e6fdade543620b408b32aefc8a8.bindPopup(popup_3dd6653c3cf03374f1a281f9b0234fa8)
+        ;
+
+        
+    
+    
+            var marker_f179e7d4b433c74056f35394d0145c8c = L.marker(
+                [37.51921203803235, 126.92858227851269],
+                {}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var icon_a6b86f6c7cbba81dccb48f84887357a6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_f179e7d4b433c74056f35394d0145c8c.setIcon(icon_a6b86f6c7cbba81dccb48f84887357a6);
+        
+    
+        var popup_50129b38e72470e895a85d6e20d265c4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2fc40e507503dd9fed1ebc71fa425bf9 = $(`<div id="html_2fc40e507503dd9fed1ebc71fa425bf9" style="width: 100.0%; height: 100.0%;"><pre><b>스위스정신건강의학과의원</b></br>의사당대로1길 11</br>2층</br>02.780.7576</pre></div>`)[0];
+                popup_50129b38e72470e895a85d6e20d265c4.setContent(html_2fc40e507503dd9fed1ebc71fa425bf9);
+            
+        
+
+        marker_f179e7d4b433c74056f35394d0145c8c.bindPopup(popup_50129b38e72470e895a85d6e20d265c4)
+        ;
+
+        
+    
+    
+            var marker_03781825b8cef0fd428c43dc92849352 = L.marker(
+                [37.519343675821716, 126.93150420995966],
+                {}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var icon_902cd552bf406f7a4351d7b58cb53531 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_03781825b8cef0fd428c43dc92849352.setIcon(icon_902cd552bf406f7a4351d7b58cb53531);
+        
+    
+        var popup_2fb4f58914331f4c8ffd15a056d41ed6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_20881129e8a763bd7d39e3867c83a2ab = $(`<div id="html_20881129e8a763bd7d39e3867c83a2ab" style="width: 100.0%; height: 100.0%;"><pre><b>여의도삼성정신건강의학과의원</b></br>여의대방로 383</br>경도빌딩 2층</br>02.780.1593</pre></div>`)[0];
+                popup_2fb4f58914331f4c8ffd15a056d41ed6.setContent(html_20881129e8a763bd7d39e3867c83a2ab);
+            
+        
+
+        marker_03781825b8cef0fd428c43dc92849352.bindPopup(popup_2fb4f58914331f4c8ffd15a056d41ed6)
+        ;
+
+        
+    
+    
+            var marker_964ebebdd8ed5b52de49b4a4ee771a00 = L.marker(
+                [37.52024053946148, 126.9264067555435],
+                {}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var icon_d5d54001a7b214e1c64b793ecaebaabe = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_964ebebdd8ed5b52de49b4a4ee771a00.setIcon(icon_d5d54001a7b214e1c64b793ecaebaabe);
+        
+    
+        var popup_387f61234d3ab63af603b1f7a8354920 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_84d364fc3203647df162bb1a9b5165fd = $(`<div id="html_84d364fc3203647df162bb1a9b5165fd" style="width: 100.0%; height: 100.0%;"><pre><b>여의도쉼정신건강의학과의원</b></br>의사당대로 127</br>롯데캐슬엠파이어 203호</br>02.6954.6997</pre></div>`)[0];
+                popup_387f61234d3ab63af603b1f7a8354920.setContent(html_84d364fc3203647df162bb1a9b5165fd);
+            
+        
+
+        marker_964ebebdd8ed5b52de49b4a4ee771a00.bindPopup(popup_387f61234d3ab63af603b1f7a8354920)
+        ;
+
+        
+    
+    
+            var marker_a3f50b4c0dc3cbfb1e28ec0dc56c2e2a = L.marker(
+                [37.52147024847636, 126.92497118698662],
+                {}
+            ).addTo(map_120f4a56e71a05b11ef0ebb532a00af3);
+        
+    
+            var icon_6f73ce6d39594789a8a725255a4a3cfc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_a3f50b4c0dc3cbfb1e28ec0dc56c2e2a.setIcon(icon_6f73ce6d39594789a8a725255a4a3cfc);
+        
+    
+        var popup_dae72585210be2c7784217280c27db93 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_77cc8845be4121cbb00570375d1cd1a6 = $(`<div id="html_77cc8845be4121cbb00570375d1cd1a6" style="width: 100.0%; height: 100.0%;"><pre><b>여의도힐정신건강의학과의원</b></br>여의나루로 42</br>여의도종합상가510호</br>02.785.7008</pre></div>`)[0];
+                popup_dae72585210be2c7784217280c27db93.setContent(html_77cc8845be4121cbb00570375d1cd1a6);
+            
+        
+
+        marker_a3f50b4c0dc3cbfb1e28ec0dc56c2e2a.bindPopup(popup_dae72585210be2c7784217280c27db93)
+        ;
+
+        
+    
+</script>
+</html>
