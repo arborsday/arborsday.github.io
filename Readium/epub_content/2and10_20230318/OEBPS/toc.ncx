@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:e315ae25-e5c7-48fe-8df5-86d6c3f290ac"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>두 배 힘든 열 배 기쁜 合</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>두 배 힘든 열 배 기쁜 合</text>
+      </navLabel>
+      <content src="Text/dobira.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>추천사 목원대학교 기독교교육학과 조은하 교수</text>
+        </navLabel>
+        <content src="Text/recommend_01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>추천사 실천신대 종교사회학 정재영 교수</text>
+        </navLabel>
+        <content src="Text/recommend_02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>추천사 LifeHope기독교자살예방센터 조성돈 대표</text>
+        </navLabel>
+        <content src="Text/recommend_03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>여는말</text>
+        </navLabel>
+        <content src="Text/open_01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>개정판을 준비하며</text>
+        </navLabel>
+        <content src="Text/open_02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>한걸음을 내딛으며</text>
+        </navLabel>
+        <content src="Text/open_03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>결혼, 한다고?</text>
+        </navLabel>
+        <content src="Text/church_berlin.xhtml"/>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>1장 초심 (初心)</text>
+          </navLabel>
+          <content src="Text/ch1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>2장 다름 그래서 아름다움</text>
+          </navLabel>
+          <content src="Text/ch2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>3장 하나됨</text>
+          </navLabel>
+          <content src="Text/ch3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>4장 결정권 이양 그리고 연합</text>
+          </navLabel>
+          <content src="Text/ch4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>5장 말(馬/言)</text>
+          </navLabel>
+          <content src="Text/ch5.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>6장 끝, 또 다른 시작</text>
+          </navLabel>
+          <content src="Text/ch6.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>워 크 북</text>
+          </navLabel>
+          <content src="Text/Workbook_dobira.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>저자의 말</text>
+        </navLabel>
+        <content src="Text/writer.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>도서정보</text>
+      </navLabel>
+      <content src="Text/bookinfo.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>주석</text>
+      </navLabel>
+      <content src="Text/footnote.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
