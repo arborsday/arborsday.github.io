@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator>김주선</dc:creator>
+    <dc:language>ko</dc:language>
+    <dc:title>두 배 힘든 열 배 기쁜 合</dc:title>
+    <dc:publisher>Planters 플랜터스</dc:publisher>
+    <meta content="1.9.20" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2023-03-18</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:e315ae25-e5c7-48fe-8df5-86d6c3f290ac</dc:identifier>
+    <meta name="cover" content="cover.png"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="bookinfo.xhtml" href="Text/bookinfo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="cover.png" href="Images/cover.png" media-type="image/png"/>
+    <item id="dobira.xhtml" href="Text/dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="to.xhtml" href="Text/to.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KoPubWorldDotumMedium.ttf" href="Fonts/KoPubWorldDotumMedium.ttf" media-type="font/ttf"/>
+    <item id="KoPubWorldDotumLight.ttf" href="Fonts/KoPubWorldDotumLight.ttf" media-type="font/ttf"/>
+    <item id="KoPubWorldDotumBold.ttf" href="Fonts/KoPubWorldDotumBold.ttf" media-type="font/ttf"/>
+    <item id="KoPubWorldBatangMedium.ttf" href="Fonts/KoPubWorldBatangMedium.ttf" media-type="font/ttf"/>
+    <item id="KoPubWorldBatangLight.ttf" href="Fonts/KoPubWorldBatangLight.ttf" media-type="font/ttf"/>
+    <item id="KoPubWorldBatangBold.ttf" href="Fonts/KoPubWorldBatangBold.ttf" media-type="font/ttf"/>
+    <item id="tree_blue.png" href="Images/tree_blue.png" media-type="image/png"/>
+    <item id="KCCChassam.ttf" href="Fonts/KCCChassam.ttf" media-type="font/ttf"/>
+    <item id="Cafe24Shiningstar.ttf" href="Fonts/Cafe24Shiningstar.ttf" media-type="font/ttf"/>
+    <item id="recommend_01.xhtml" href="Text/recommend_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="recommend_03.xhtml" href="Text/recommend_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="recommend_02.xhtml" href="Text/recommend_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="open_01.xhtml" href="Text/open_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="open_02.xhtml" href="Text/open_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="prayer.xhtml" href="Text/prayer.xhtml" media-type="application/xhtml+xml"/>
+    <item id="open_03.xhtml" href="Text/open_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="thanksto.xhtml" href="Text/thanksto.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch1.xhtml" href="Text/ch1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="church_berlin.xhtml" href="Text/church_berlin.xhtml" media-type="application/xhtml+xml"/>
+    <item id="church_berlin.jpg" href="Images/church_berlin.jpg" media-type="image/jpeg"/>
+    <item id="ch1_dobira.xhtml" href="Text/ch1_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tree_white.png" href="Images/tree_white.png" media-type="image/png"/>
+    <item id="KCCKimhoon.ttf" href="Fonts/KCCKimhoon.ttf" media-type="font/ttf"/>
+    <item id="ch1_01.xhtml" href="Text/ch1_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch1_01_01.xhtml" href="Text/ch1_01_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch1_01_02.xhtml" href="Text/ch1_01_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="writer.xhtml" href="Text/writer.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch1_01_03.xhtml" href="Text/ch1_01_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch2_dobira.xhtml" href="Text/ch2_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch2_thanksto.xhtml" href="Text/ch2_thanksto.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch2.xhtml" href="Text/ch2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch2_01.xhtml" href="Text/ch2_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch2_02.xhtml" href="Text/ch2_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="polygon.jpg" href="Images/polygon.jpg" media-type="image/jpeg"/>
+    <item id="ch3_dobira.xhtml" href="Text/ch3_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch3_thanksto.xhtml" href="Text/ch3_thanksto.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch3.xhtml" href="Text/ch3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="loop.png" href="Images/loop.png" media-type="image/png"/>
+    <item id="ch3_01.xhtml" href="Text/ch3_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="footnote.xhtml" href="Text/footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch3_02.xhtml" href="Text/ch3_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch4.xhtml" href="Text/ch4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch4_dobira.xhtml" href="Text/ch4_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch4_01.xhtml" href="Text/ch4_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch5_equation.xhtml" href="Text/ch5_equation.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch5_dobira.xhtml" href="Text/ch5_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch5_quote.xhtml" href="Text/ch5_quote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch5.xhtml" href="Text/ch5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch5_01.xhtml" href="Text/ch5_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch6_bubble.xhtml" href="Text/ch6_bubble.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch6_dobira.xhtml" href="Text/ch6_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ch6.xhtml" href="Text/ch6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="weldone.png" href="Images/weldone.png" media-type="image/png"/>
+    <item id="weldone1.xhtml" href="Text/weldone1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Workbook_dobira.xhtml" href="Text/Workbook_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Workbook1.jpg" href="Images/Workbook1.jpg" media-type="image/jpeg"/>
+    <item id="Workbook2.jpg" href="Images/Workbook2.jpg" media-type="image/jpeg"/>
+    <item id="Workbook3.jpg" href="Images/Workbook3.jpg" media-type="image/jpeg"/>
+    <item id="Workbook4.jpg" href="Images/Workbook4.jpg" media-type="image/jpeg"/>
+    <item id="Workbook5.jpg" href="Images/Workbook5.jpg" media-type="image/jpeg"/>
+    <item id="Workbook6.jpg" href="Images/Workbook6.jpg" media-type="image/jpeg"/>
+    <item id="Workbook7.jpg" href="Images/Workbook7.jpg" media-type="image/jpeg"/>
+    <item id="Workbook8.jpg" href="Images/Workbook8.jpg" media-type="image/jpeg"/>
+    <item id="Workbook9.jpg" href="Images/Workbook9.jpg" media-type="image/jpeg"/>
+    <item id="Workbook10.jpg" href="Images/Workbook10.jpg" media-type="image/jpeg"/>
+    <item id="Workbook11.jpg" href="Images/Workbook11.jpg" media-type="image/jpeg"/>
+    <item id="Workbook12.jpg" href="Images/Workbook12.jpg" media-type="image/jpeg"/>
+    <item id="Workbook13.jpg" href="Images/Workbook13.jpg" media-type="image/jpeg"/>
+    <item id="Workbook14.jpg" href="Images/Workbook14.jpg" media-type="image/jpeg"/>
+    <item id="Workbook15.jpg" href="Images/Workbook15.jpg" media-type="image/jpeg"/>
+    <item id="Workbook16.jpg" href="Images/Workbook16.jpg" media-type="image/jpeg"/>
+    <item id="Workbook17.jpg" href="Images/Workbook17.jpg" media-type="image/jpeg"/>
+    <item id="Workbook18.jpg" href="Images/Workbook18.jpg" media-type="image/jpeg"/>
+    <item id="Workbook19.jpg" href="Images/Workbook19.jpg" media-type="image/jpeg"/>
+    <item id="Workbook20.jpg" href="Images/Workbook20.jpg" media-type="image/jpeg"/>
+    <item id="Workbook21.jpg" href="Images/Workbook21.jpg" media-type="image/jpeg"/>
+    <item id="Workbook22.jpg" href="Images/Workbook22.jpg" media-type="image/jpeg"/>
+    <item id="Workbook23.jpg" href="Images/Workbook23.jpg" media-type="image/jpeg"/>
+    <item id="Workbook24.jpg" href="Images/Workbook24.jpg" media-type="image/jpeg"/>
+    <item id="Workbook25.jpg" href="Images/Workbook25.jpg" media-type="image/jpeg"/>
+    <item id="Workbook26.jpg" href="Images/Workbook26.jpg" media-type="image/jpeg"/>
+    <item id="Workbook27.jpg" href="Images/Workbook27.jpg" media-type="image/jpeg"/>
+    <item id="Workbook28.jpg" href="Images/Workbook28.jpg" media-type="image/jpeg"/>
+    <item id="Workbook29.jpg" href="Images/Workbook29.jpg" media-type="image/jpeg"/>
+    <item id="Workbook30.jpg" href="Images/Workbook30.jpg" media-type="image/jpeg"/>
+    <item id="Workbook_01.xhtml" href="Text/Workbook_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Workbook_02.xhtml" href="Text/Workbook_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Workbook_03.xhtml" href="Text/Workbook_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="weldone2.xhtml" href="Text/weldone2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Q1_1.png" href="Images/Q1_1.png" media-type="image/png"/>
+    <item id="Q1_4.png" href="Images/Q1_4.png" media-type="image/png"/>
+    <item id="Q1_3.png" href="Images/Q1_3.png" media-type="image/png"/>
+    <item id="Q1_2.png" href="Images/Q1_2.png" media-type="image/png"/>
+    <item id="MapoAgape.ttf" href="Fonts/MapoAgape.ttf" media-type="font/ttf"/>
+    <item id="ch3_end.xhtml" href="Text/ch3_end.xhtml" media-type="application/xhtml+xml"/>
+    <item id="couple.png" href="Images/couple.png" media-type="image/png"/>
+    <item id="Image_085.png" href="Images/Image_085.png" media-type="image/png"/>
+    <item id="word_bubble.png" href="Images/word_bubble.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="dobira.xhtml"/>
+    <itemref idref="to.xhtml"/>
+    <itemref idref="recommend_01.xhtml"/>
+    <itemref idref="recommend_02.xhtml"/>
+    <itemref idref="recommend_03.xhtml"/>
+    <itemref idref="open_01.xhtml"/>
+    <itemref idref="open_02.xhtml"/>
+    <itemref idref="open_03.xhtml"/>
+    <itemref idref="prayer.xhtml"/>
+    <itemref idref="thanksto.xhtml"/>
+    <itemref idref="church_berlin.xhtml"/>
+    <itemref idref="ch1_dobira.xhtml"/>
+    <itemref idref="ch1.xhtml"/>
+    <itemref idref="ch1_01.xhtml"/>
+    <itemref idref="ch1_01_01.xhtml"/>
+    <itemref idref="ch1_01_02.xhtml"/>
+    <itemref idref="ch1_01_03.xhtml"/>
+    <itemref idref="ch2_dobira.xhtml"/>
+    <itemref idref="ch2_thanksto.xhtml"/>
+    <itemref idref="ch2.xhtml"/>
+    <itemref idref="ch2_01.xhtml"/>
+    <itemref idref="ch2_02.xhtml"/>
+    <itemref idref="ch3_dobira.xhtml"/>
+    <itemref idref="ch3_thanksto.xhtml"/>
+    <itemref idref="ch3.xhtml"/>
+    <itemref idref="ch3_01.xhtml"/>
+    <itemref idref="ch3_02.xhtml"/>
+    <itemref idref="ch3_end.xhtml"/>
+    <itemref idref="ch4_dobira.xhtml"/>
+    <itemref idref="ch4.xhtml"/>
+    <itemref idref="ch4_01.xhtml"/>
+    <itemref idref="ch5_equation.xhtml"/>
+    <itemref idref="ch5_dobira.xhtml"/>
+    <itemref idref="ch5_quote.xhtml"/>
+    <itemref idref="ch5.xhtml"/>
+    <itemref idref="ch5_01.xhtml"/>
+    <itemref idref="ch6_bubble.xhtml"/>
+    <itemref idref="ch6_dobira.xhtml"/>
+    <itemref idref="ch6.xhtml"/>
+    <itemref idref="weldone1.xhtml"/>
+    <itemref idref="Workbook_dobira.xhtml"/>
+    <itemref idref="Workbook_01.xhtml"/>
+    <itemref idref="Workbook_02.xhtml"/>
+    <itemref idref="Workbook_03.xhtml"/>
+    <itemref idref="weldone2.xhtml"/>
+    <itemref idref="writer.xhtml"/>
+    <itemref idref="bookinfo.xhtml"/>
+    <itemref idref="footnote.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>
