@@ -74,12 +74,12 @@
 </entry>
 
    <entry>
-  <title>100Startups_230509</title>
+  <title>100Startups_230527</title>
   <author>
-    <name>100Startups_230509</name>
+    <name>100Startups_230527</name>
   </author>
-  <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/100Startups_230509/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
-  <link type="application/epub" href="100Startups_230509" rel="http://opds-spec.org/acquisition"/>
+  <link type="image/jpeg" href="http://arborsday.github.io/Readium/epub_content/100Startups_230527/OEBPS/Images/cover.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+  <link type="application/epub" href="100Startups_230527" rel="http://opds-spec.org/acquisition"/>
   <updated>2023-05-11T00:00:00Z</updated>
   <id>READIUM_OPDS_0123456789_7</id>
 </entry>

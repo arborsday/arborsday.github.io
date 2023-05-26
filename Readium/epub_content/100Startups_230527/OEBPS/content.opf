@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId">urn:uuid:b2bd656d-e5d6-463d-ae41-37d07d7f1976</dc:identifier>
+    <dc:language>ko</dc:language>
+    <dc:title>[메인 제목을 넣으세요]</dc:title>
+    <meta property="dcterms:modified">2023-05-27T00:08:25Z</meta>
+    <meta name="cover" content="cover.jpg"/>
+    <meta content="1.9.20" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="intro.xhtml" href="Text/intro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1.xhtml" href="Text/CH1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_dobira.xhtml" href="Text/CH1_01_NA_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_01.xhtml" href="Text/CH1_01_NA_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="PretendardVariable.ttf" href="Fonts/PretendardVariable.ttf" media-type="font/ttf"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="Foldit-Regular.ttf" href="Fonts/Foldit-Regular.ttf" media-type="font/ttf"/>
+    <item id="Foldit-Thin.ttf" href="Fonts/Foldit-Thin.ttf" media-type="font/ttf"/>
+    <item id="RobotoMono-Italic-VariableFont_wght.ttf" href="Fonts/RobotoMono-Italic-VariableFont_wght.ttf" media-type="font/ttf"/>
+    <item id="RobotoMono-VariableFont_wght.ttf" href="Fonts/RobotoMono-VariableFont_wght.ttf" media-type="font/ttf"/>
+    <item id="Map_NorthAmerica.png" href="Images/Map_NorthAmerica.png" media-type="image/png"/>
+    <item id="CH1_01_NA_02.xhtml" href="Text/CH1_01_NA_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_05.xhtml" href="Text/CH1_01_NA_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_03.xhtml" href="Text/CH1_01_NA_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_08.xhtml" href="Text/CH1_01_NA_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_04.xhtml" href="Text/CH1_01_NA_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_10.xhtml" href="Text/CH1_01_NA_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_06.xhtml" href="Text/CH1_01_NA_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_09.xhtml" href="Text/CH1_01_NA_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_07.xhtml" href="Text/CH1_01_NA_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_11.xhtml" href="Text/CH1_01_NA_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_12.xhtml" href="Text/CH1_01_NA_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_13.xhtml" href="Text/CH1_01_NA_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_14.xhtml" href="Text/CH1_01_NA_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_15.xhtml" href="Text/CH1_01_NA_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_16.xhtml" href="Text/CH1_01_NA_16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_17.xhtml" href="Text/CH1_01_NA_17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_18.xhtml" href="Text/CH1_01_NA_18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_19.xhtml" href="Text/CH1_01_NA_19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_20.xhtml" href="Text/CH1_01_NA_20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_21.xhtml" href="Text/CH1_01_NA_21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_22.xhtml" href="Text/CH1_01_NA_22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_23.xhtml" href="Text/CH1_01_NA_23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_24.xhtml" href="Text/CH1_01_NA_24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_25.xhtml" href="Text/CH1_01_NA_25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_26.xhtml" href="Text/CH1_01_NA_26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_27.xhtml" href="Text/CH1_01_NA_27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_01_NA_28.xhtml" href="Text/CH1_01_NA_28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_02_SA_dobira.xhtml" href="Text/CH1_02_SA_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_02_SA_1.xhtml" href="Text/CH1_02_SA_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_02_SA_2.xhtml" href="Text/CH1_02_SA_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_02_SA_3.xhtml" href="Text/CH1_02_SA_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_02_SA_4.xhtml" href="Text/CH1_02_SA_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_02_SA_5.xhtml" href="Text/CH1_02_SA_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_02_SA_6.xhtml" href="Text/CH1_02_SA_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_dobira.xhtml" href="Text/CH1_03_EU_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_1.xhtml" href="Text/CH1_03_EU_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_2.xhtml" href="Text/CH1_03_EU_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_3.xhtml" href="Text/CH1_03_EU_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_4.xhtml" href="Text/CH1_03_EU_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_5.xhtml" href="Text/CH1_03_EU_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_6.xhtml" href="Text/CH1_03_EU_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_7.xhtml" href="Text/CH1_03_EU_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_8.xhtml" href="Text/CH1_03_EU_8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_9.xhtml" href="Text/CH1_03_EU_9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_10.xhtml" href="Text/CH1_03_EU_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_11.xhtml" href="Text/CH1_03_EU_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_12.xhtml" href="Text/CH1_03_EU_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_13.xhtml" href="Text/CH1_03_EU_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_14.xhtml" href="Text/CH1_03_EU_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_15.xhtml" href="Text/CH1_03_EU_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_16.xhtml" href="Text/CH1_03_EU_16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_17.xhtml" href="Text/CH1_03_EU_17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_18.xhtml" href="Text/CH1_03_EU_18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_19.xhtml" href="Text/CH1_03_EU_19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_20.xhtml" href="Text/CH1_03_EU_20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_21.xhtml" href="Text/CH1_03_EU_21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_22.xhtml" href="Text/CH1_03_EU_22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_23.xhtml" href="Text/CH1_03_EU_23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_24.xhtml" href="Text/CH1_03_EU_24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_25.xhtml" href="Text/CH1_03_EU_25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_26.xhtml" href="Text/CH1_03_EU_26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_27.xhtml" href="Text/CH1_03_EU_27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_28.xhtml" href="Text/CH1_03_EU_28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_29.xhtml" href="Text/CH1_03_EU_29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_03_EU_30.xhtml" href="Text/CH1_03_EU_30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_dobira.xhtml" href="Text/CH1_04_AS_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_1.xhtml" href="Text/CH1_04_AS_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_2.xhtml" href="Text/CH1_04_AS_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_3.xhtml" href="Text/CH1_04_AS_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_4.xhtml" href="Text/CH1_04_AS_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_5.xhtml" href="Text/CH1_04_AS_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_6.xhtml" href="Text/CH1_04_AS_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_7.xhtml" href="Text/CH1_04_AS_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_8.xhtml" href="Text/CH1_04_AS_8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_9.xhtml" href="Text/CH1_04_AS_9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_10.xhtml" href="Text/CH1_04_AS_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_11.xhtml" href="Text/CH1_04_AS_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_12.xhtml" href="Text/CH1_04_AS_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_13.xhtml" href="Text/CH1_04_AS_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_14.xhtml" href="Text/CH1_04_AS_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_15.xhtml" href="Text/CH1_04_AS_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_16.xhtml" href="Text/CH1_04_AS_16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_17.xhtml" href="Text/CH1_04_AS_17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_18.xhtml" href="Text/CH1_04_AS_18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_19.xhtml" href="Text/CH1_04_AS_19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_20.xhtml" href="Text/CH1_04_AS_20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_21.xhtml" href="Text/CH1_04_AS_21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_22.xhtml" href="Text/CH1_04_AS_22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_23.xhtml" href="Text/CH1_04_AS_23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_24.xhtml" href="Text/CH1_04_AS_24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_25.xhtml" href="Text/CH1_04_AS_25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_26.xhtml" href="Text/CH1_04_AS_26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_27.xhtml" href="Text/CH1_04_AS_27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_28.xhtml" href="Text/CH1_04_AS_28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_29.xhtml" href="Text/CH1_04_AS_29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_04_AS_30.xhtml" href="Text/CH1_04_AS_30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_05_AT_dobira.xhtml" href="Text/CH1_05_AT_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_05_AT_1.xhtml" href="Text/CH1_05_AT_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_05_AT_2.xhtml" href="Text/CH1_05_AT_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_05_AT_3.xhtml" href="Text/CH1_05_AT_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_06_AF_dobira.xhtml" href="Text/CH1_06_AF_dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_06_AF_1.xhtml" href="Text/CH1_06_AF_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_06_AF_2.xhtml" href="Text/CH1_06_AF_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_06_AF_3.xhtml" href="Text/CH1_06_AF_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH2.xhtml" href="Text/CH2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="outro.xhtml" href="Text/outro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Map_Africa.png" href="Images/Map_Africa.png" media-type="image/png"/>
+    <item id="Map_Australia.png" href="Images/Map_Australia.png" media-type="image/png"/>
+    <item id="Map_Asia.png" href="Images/Map_Asia.png" media-type="image/png"/>
+    <item id="Map_Europe.png" href="Images/Map_Europe.png" media-type="image/png"/>
+    <item id="Map_SouthAmerica.png" href="Images/Map_SouthAmerica.png" media-type="image/png"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="intro.xhtml"/>
+    <itemref idref="CH1.xhtml"/>
+    <itemref idref="CH1_01_NA_dobira.xhtml"/>
+    <itemref idref="CH1_01_NA_01.xhtml"/>
+    <itemref idref="CH1_01_NA_02.xhtml"/>
+    <itemref idref="CH1_01_NA_03.xhtml"/>
+    <itemref idref="CH1_01_NA_04.xhtml"/>
+    <itemref idref="CH1_01_NA_05.xhtml"/>
+    <itemref idref="CH1_01_NA_06.xhtml"/>
+    <itemref idref="CH1_01_NA_07.xhtml"/>
+    <itemref idref="CH1_01_NA_08.xhtml"/>
+    <itemref idref="CH1_01_NA_09.xhtml"/>
+    <itemref idref="CH1_01_NA_10.xhtml"/>
+    <itemref idref="CH1_01_NA_11.xhtml"/>
+    <itemref idref="CH1_01_NA_12.xhtml"/>
+    <itemref idref="CH1_01_NA_13.xhtml"/>
+    <itemref idref="CH1_01_NA_14.xhtml"/>
+    <itemref idref="CH1_01_NA_15.xhtml"/>
+    <itemref idref="CH1_01_NA_16.xhtml"/>
+    <itemref idref="CH1_01_NA_17.xhtml"/>
+    <itemref idref="CH1_01_NA_18.xhtml"/>
+    <itemref idref="CH1_01_NA_19.xhtml"/>
+    <itemref idref="CH1_01_NA_20.xhtml"/>
+    <itemref idref="CH1_01_NA_21.xhtml"/>
+    <itemref idref="CH1_01_NA_22.xhtml"/>
+    <itemref idref="CH1_01_NA_23.xhtml"/>
+    <itemref idref="CH1_01_NA_24.xhtml"/>
+    <itemref idref="CH1_01_NA_25.xhtml"/>
+    <itemref idref="CH1_01_NA_26.xhtml"/>
+    <itemref idref="CH1_01_NA_27.xhtml"/>
+    <itemref idref="CH1_01_NA_28.xhtml"/>
+    <itemref idref="CH1_02_SA_dobira.xhtml"/>
+    <itemref idref="CH1_02_SA_1.xhtml"/>
+    <itemref idref="CH1_02_SA_2.xhtml"/>
+    <itemref idref="CH1_02_SA_3.xhtml"/>
+    <itemref idref="CH1_02_SA_4.xhtml"/>
+    <itemref idref="CH1_02_SA_5.xhtml"/>
+    <itemref idref="CH1_02_SA_6.xhtml"/>
+    <itemref idref="CH1_03_EU_dobira.xhtml"/>
+    <itemref idref="CH1_03_EU_1.xhtml"/>
+    <itemref idref="CH1_03_EU_2.xhtml"/>
+    <itemref idref="CH1_03_EU_3.xhtml"/>
+    <itemref idref="CH1_03_EU_4.xhtml"/>
+    <itemref idref="CH1_03_EU_5.xhtml"/>
+    <itemref idref="CH1_03_EU_6.xhtml"/>
+    <itemref idref="CH1_03_EU_7.xhtml"/>
+    <itemref idref="CH1_03_EU_8.xhtml"/>
+    <itemref idref="CH1_03_EU_9.xhtml"/>
+    <itemref idref="CH1_03_EU_10.xhtml"/>
+    <itemref idref="CH1_03_EU_11.xhtml"/>
+    <itemref idref="CH1_03_EU_12.xhtml"/>
+    <itemref idref="CH1_03_EU_13.xhtml"/>
+    <itemref idref="CH1_03_EU_14.xhtml"/>
+    <itemref idref="CH1_03_EU_15.xhtml"/>
+    <itemref idref="CH1_03_EU_16.xhtml"/>
+    <itemref idref="CH1_03_EU_17.xhtml"/>
+    <itemref idref="CH1_03_EU_18.xhtml"/>
+    <itemref idref="CH1_03_EU_19.xhtml"/>
+    <itemref idref="CH1_03_EU_20.xhtml"/>
+    <itemref idref="CH1_03_EU_21.xhtml"/>
+    <itemref idref="CH1_03_EU_22.xhtml"/>
+    <itemref idref="CH1_03_EU_23.xhtml"/>
+    <itemref idref="CH1_03_EU_24.xhtml"/>
+    <itemref idref="CH1_03_EU_25.xhtml"/>
+    <itemref idref="CH1_03_EU_26.xhtml"/>
+    <itemref idref="CH1_03_EU_27.xhtml"/>
+    <itemref idref="CH1_03_EU_28.xhtml"/>
+    <itemref idref="CH1_03_EU_29.xhtml"/>
+    <itemref idref="CH1_03_EU_30.xhtml"/>
+    <itemref idref="CH1_04_AS_dobira.xhtml"/>
+    <itemref idref="CH1_04_AS_1.xhtml"/>
+    <itemref idref="CH1_04_AS_2.xhtml"/>
+    <itemref idref="CH1_04_AS_3.xhtml"/>
+    <itemref idref="CH1_04_AS_4.xhtml"/>
+    <itemref idref="CH1_04_AS_5.xhtml"/>
+    <itemref idref="CH1_04_AS_6.xhtml"/>
+    <itemref idref="CH1_04_AS_7.xhtml"/>
+    <itemref idref="CH1_04_AS_8.xhtml"/>
+    <itemref idref="CH1_04_AS_9.xhtml"/>
+    <itemref idref="CH1_04_AS_10.xhtml"/>
+    <itemref idref="CH1_04_AS_11.xhtml"/>
+    <itemref idref="CH1_04_AS_12.xhtml"/>
+    <itemref idref="CH1_04_AS_13.xhtml"/>
+    <itemref idref="CH1_04_AS_14.xhtml"/>
+    <itemref idref="CH1_04_AS_15.xhtml"/>
+    <itemref idref="CH1_04_AS_16.xhtml"/>
+    <itemref idref="CH1_04_AS_17.xhtml"/>
+    <itemref idref="CH1_04_AS_18.xhtml"/>
+    <itemref idref="CH1_04_AS_19.xhtml"/>
+    <itemref idref="CH1_04_AS_20.xhtml"/>
+    <itemref idref="CH1_04_AS_21.xhtml"/>
+    <itemref idref="CH1_04_AS_22.xhtml"/>
+    <itemref idref="CH1_04_AS_23.xhtml"/>
+    <itemref idref="CH1_04_AS_24.xhtml"/>
+    <itemref idref="CH1_04_AS_25.xhtml"/>
+    <itemref idref="CH1_04_AS_26.xhtml"/>
+    <itemref idref="CH1_04_AS_27.xhtml"/>
+    <itemref idref="CH1_04_AS_28.xhtml"/>
+    <itemref idref="CH1_04_AS_29.xhtml"/>
+    <itemref idref="CH1_04_AS_30.xhtml"/>
+    <itemref idref="CH1_05_AT_dobira.xhtml"/>
+    <itemref idref="CH1_05_AT_1.xhtml"/>
+    <itemref idref="CH1_05_AT_2.xhtml"/>
+    <itemref idref="CH1_05_AT_3.xhtml"/>
+    <itemref idref="CH1_06_AF_dobira.xhtml"/>
+    <itemref idref="CH1_06_AF_1.xhtml"/>
+    <itemref idref="CH1_06_AF_2.xhtml"/>
+    <itemref idref="CH1_06_AF_3.xhtml"/>
+    <itemref idref="CH2.xhtml"/>
+    <itemref idref="outro.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+  </spine>
+</package>
