@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" prefix="rendition: http://www.idpf.org/vocab/rendition/#" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>ko</dc:language>
+    <dc:title id="title1">시각장애인의 식품 정보접근성 인터뷰 사례집</dc:title>
+    <meta refines="#title1" property="title-type">main</meta>
+    <dc:creator id="create1">(사)환경정의</dc:creator>
+    <meta refines="#create1" property="role" scheme="marc:relators">aut</meta>
+    <dc:publisher>(사)환경정의</dc:publisher>
+    <meta property="dcterms:modified">2023-11-28T17:57:13Z</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityHazard">noMotionSimulationHazard</meta>
+    <meta property="schema:accessibilityHazard">noSoundHazard</meta>
+    <meta property="schema:accessibilitySummary">시각장애인의 식품 정보접근성 인터뷰 사례집</meta>
+    <dc:date>2023-11-24</dc:date>
+    <dc:identifier>urn:isbn:</dc:identifier>
+    <meta content="2.0.2" name="Sigil version"/>
+    <dc:identifier id="BookId">urn:uuid:6950fb93-fa86-4e4e-907e-8269757c5979</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="Credit.xhtml" href="Text/Credit.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KoPubBatangBold.ttf" href="Fonts/KoPubBatangBold.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="KoPubBatangLight.ttf" href="Fonts/KoPubBatangLight.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="navid" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="style.css" href="Styles/style.css" media-type="text/css"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="Part01.xhtml" href="Text/Part01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Part02.xhtml" href="Text/Part02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Part02_1.xhtml" href="Text/Part02_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Part03.xhtml" href="Text/Part03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Part02_2.xhtml" href="Text/Part02_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Part02_3.xhtml" href="Text/Part02_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Part02_5.xhtml" href="Text/Part02_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Part02_8.xhtml" href="Text/Part02_8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Part02_6.xhtml" href="Text/Part02_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Part02_4.xhtml" href="Text/Part02_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Part02_7.xhtml" href="Text/Part02_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="loi.xhtml" href="Text/loi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="nav.xhtml" linear="no"/>
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="loi.xhtml"/>
+    <itemref idref="Part01.xhtml"/>
+    <itemref idref="Part02.xhtml"/>
+    <itemref idref="Part02_1.xhtml"/>
+    <itemref idref="Part02_2.xhtml"/>
+    <itemref idref="Part02_3.xhtml"/>
+    <itemref idref="Part02_4.xhtml"/>
+    <itemref idref="Part02_5.xhtml"/>
+    <itemref idref="Part02_6.xhtml"/>
+    <itemref idref="Part02_7.xhtml"/>
+    <itemref idref="Part02_8.xhtml"/>
+    <itemref idref="Part03.xhtml"/>
+    <itemref idref="Credit.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="차례" href="Text/nav.xhtml"/>
+  </guide>
+</package>

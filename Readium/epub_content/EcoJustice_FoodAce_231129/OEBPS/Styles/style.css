@@ -1,0 +1,396 @@
+@font-face {
+	font-family : "기본글꼴";
+    src: url("../Fonts/KoPubBatangLight.ttf");	
+}
+
+
+/*기본 공통*/
+
+* {
+	font-family : "UC고딕";
+}
+
+/* body p */
+
+body {
+  margin: 2em;
+}
+
+p {
+  font-size: 1.15em;
+  text-indent: 1.2em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  text-align: left;
+  line-height: 1.8em;
+  word-spacing: 0.16em;
+  letter-spacing: 0.12em;
+  word-break: break-all;
+}
+
+/* tables */
+
+table {
+  max-width: 95%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  page-break-inside: avoid;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-size: 1.15em;
+  line-height: 1.5em;
+  text-align: left;
+  word-spacing: 0.16em;
+  letter-spacing: 0.12em;
+}
+
+table caption {
+  text-align: left;
+  text-indent: 1.2em;
+}
+
+tr {
+  border: 0.063em solid;
+  padding: 0.625em 1.25em 0.938em 0.938em;
+}
+
+tr th {
+  border-bottom: 0.063em solid !important;
+  border-top: 0.063em solid !important;
+  padding: 0.625em 1.25em 0.938em 0.938em;
+}
+
+td {
+  border: 0.063em solid;
+  padding: 0.625em 1.25em 0.938em 0.938em;
+}
+
+td, th {
+  padding: 0.3em;
+  vertical-align: baseline;
+  border: 0.063em solid;
+  padding: 0.625em 1.25em 0.938em 0.938em;
+}
+
+tr p {
+  margin-bottom: 0.5em;
+}
+
+tr td p {
+  margin-bottom: 0.5em;
+}
+
+tr ul {
+  margin-bottom: 0.5em;
+}
+
+tr ol {
+  margin-bottom: 0.5em;
+}
+
+tr ul li {
+  margin-bottom: 0.5em;
+}
+
+tr ol li {
+  margin-bottom: 0.5em;
+}
+
+/* heading */
+
+h1 {
+  font-size: 1.8em;
+  margin-top: 1.5em;
+  margin-bottom: 2em;
+}
+
+h2 {
+  font-size: 1.6em;
+  margin-top: 1.5em;
+  margin-bottom: 2em;
+}
+
+h3 {
+  font-size: 1.4em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+h4 {
+  font-size: 1.4em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+h5 {
+  font-size: 1.4em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+h6 {
+  font-size: 1.4em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+/* images  */
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+
+figure {
+  margin: 1em 1.5em 1em 0.5em;
+  padding: 1.5em;
+  border-radius: 0.313em;
+  border: 0.063em solid #000;
+}
+
+figure p {
+  padding: 0;
+  margin: 0;
+  text-indent: 0;
+}
+
+figure figcaption {
+  font-size: 1.15em;
+  text-align: left;
+  line-height: 1.8em;
+  word-spacing: 0.16em;
+  letter-spacing: 0.12em;
+}
+
+figure figcaption p {
+  padding: 0;
+  margin: 0;
+  text-indent: 0;
+}
+
+figure figcaption ul {
+  padding: 0;
+  margin: 0;
+  text-indent: 0;
+}
+
+figure figcaption ol {
+  padding: 0;
+  margin: 0;
+  text-indent: 0;
+}
+
+figure figcaption ul li {
+  padding: 0;
+  margin: 0;
+  text-indent: 0;
+}
+
+figure figcaption ol li {
+  padding: 0;
+  margin: 0;
+  text-indent: 0;
+}
+
+/*pagenum*/
+
+.__daisy_pagenum {
+  font-size: 100%;
+  border-top: 0.2em solid #D5D5D5;
+  border-bottom: 0.2em solid #D5D5D5;
+  padding: 0 0 0 95%;
+  display: inline-block;
+  margin: 1em 0;
+}
+
+/*div*/
+
+.__daisy_aside {
+  margin: 0.625em 0 !important;
+  padding: 0.625em 0 0 0.938em !important;
+  text-align: left;
+  border-radius: 0.313em;
+  border: 0.063em solid #000;
+  page-break-inside: avoid;
+}
+
+/*aside*/
+
+aside {
+  padding: 0.313em 1.1em;
+  border-radius: 0.313em;
+  border: 0.063em solid #000;
+  page-break-inside: avoid;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+aside p {
+  margin: 0.3em auto;
+}
+
+aside figure {
+	margin: 0.3em
+}
+
+figure > figcaption > aside {
+  border: 0 solid #000;
+  page-break-inside: avoid;
+}
+
+aside.fig-desc {
+  border: 0 solid #000;
+  page-break-inside: avoid;
+}
+
+/*list*/
+
+ul li a {
+  text-decoration: none;
+}
+
+ol li a {
+  text-decoration: none;
+}
+
+li {
+  font-size: 1.15em;
+  line-height: 1.5em;
+  word-spacing: 0.16em;
+  letter-spacing: 0.12em;
+  margin-bottom: 0.5em;
+  list-style-type: none;
+}
+
+/*bibliography*/
+
+section[role="doc-bibliography"] aside {
+  border: 0 #fff;
+}
+
+section[role="doc-bibliography"] aside > ul > li {
+  margin: 2em 0 1.2em 0;
+  list-style: none;
+  font-size: 1.15em;
+  line-height: 1.5em;
+  word-spacing: 0.16em;
+  letter-spacing: 0.12em;
+}
+
+section[role="doc-bibliography"] aside > ol > li {
+  margin: 1.2em;
+}
+
+section[role="doc-bibliography"] ul > li {
+  margin: 0 0 1.2em 0;
+}
+
+section[role="doc-bibliography"] ol > li {
+  margin: 1.2em;
+}
+
+/*endnote*/
+
+section[role="doc-endnotes"] aside {
+  border: 0 #fff;
+  margin-bottom: 0;
+}
+
+section[role="doc-endnotes"] aside > ul {
+  margin: 2.5em;
+}
+
+section[role="doc-endnotes"] aside > ul li {
+  margin: 2em 0 1.2em 0;
+  list-style: none;
+  font-size: 1.15em;
+  line-height: 1.5em;
+  word-spacing: 0.16em;
+  letter-spacing: 0.12em;
+}
+
+section[role="doc-endnotes"] ul {
+  margin: 2.5em;
+  list-style: none;
+}
+
+section[role="doc-endnotes"] p a {
+  margin: 2em 0 1.2em 0;
+  text-decoration: none;
+  line-height: 1.5em;
+  word-spacing: 0.16em;
+  letter-spacing: 0.12em;
+}
+
+section#rearnotes a {
+  color: black;
+  text-decoration: none;
+}
+
+/*index*/
+
+section[role="doc-index"] aside {
+  border: 0 #fff;
+  margin-bottom: -1.1em;
+}
+
+section[role="doc-index"] aside > ul {
+  margin: 0.5em;
+}
+
+section[role="doc-index"] aside > ul > li {
+  margin: 0 0 1em 0;
+  font-size: 1.15em;
+  line-height: 1.5em;
+  word-spacing: 0.16em;
+  letter-spacing: 0.12em;
+}
+
+section[role="doc-index"] ul {
+  margin: 0.5em;
+}
+
+section[role="doc-index"] ul li {
+  margin: 0 0 1em 0;
+  font-size: 1.15em;
+  line-height: 1.5em;
+  word-spacing: 0.16em;
+  letter-spacing: 0.12em;
+}
+
+/*nav*/
+
+nav#toc ol {
+  list-style-type: none;
+}
+
+nav#toc ol li {
+  font-size: 1.15em;
+}
+
+nav#toc ol li ol li {
+  font-size: 1em;
+}
+
+nav a {
+  text-decoration: none;
+  color: blue;
+}
+
+/*blockquote*/
+
+blockquote {
+  margin: 5% 0 5% 0;
+  padding: 0 0 0 5%;
+  border-top: 0.13em solid #D5D5D5;
+  border-bottom: 0.13em solid #D5D5D5;
+}
+
+blockquote p {
+  font-family: "UC고딕볼드";
+  text-indent: 0;
+  font-size: 1.15em;
+  margin-bottom: 0.9em;
+}

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:6950fb93-fa86-4e4e-907e-8269757c5979" />
+    <meta name="dtb:depth" content="4" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+<docTitle>
+  <text>시각장애인의 식품 정보접근성 인터뷰 사례집</text>
+</docTitle>
+<navMap>
+  <navPoint id="navPoint1">
+    <navLabel>
+      <text>이미지 목차</text>
+    </navLabel>
+    <content src="Text/loi.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint2">
+    <navLabel>
+      <text>제1장 인터뷰 그룹 설계와 결과</text>
+    </navLabel>
+    <content src="Text/Part01.xhtml" />
+    <navPoint id="navPoint3">
+      <navLabel>
+        <text>1. 인터뷰 대상과 기간</text>
+      </navLabel>
+      <content src="Text/Part01.xhtml#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint4">
+      <navLabel>
+        <text>2. 참여자 모집</text>
+      </navLabel>
+      <content src="Text/Part01.xhtml#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint5">
+      <navLabel>
+        <text>3. 인터뷰 내용과 방법</text>
+      </navLabel>
+      <content src="Text/Part01.xhtml#sigil_toc_id_3" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint6">
+    <navLabel>
+      <text>제2장 인터뷰 결과</text>
+    </navLabel>
+    <content src="Text/Part02.xhtml" />
+    <navPoint id="navPoint7">
+      <navLabel>
+        <text>1. 식품의 구매</text>
+      </navLabel>
+      <content src="Text/Part02_1.xhtml" />
+      <navPoint id="navPoint8">
+        <navLabel>
+          <text>(1) 온라인 이용</text>
+        </navLabel>
+        <content src="Text/Part02_1.xhtml#sigil_toc_id_4" />
+        <navPoint id="navPoint9">
+          <navLabel>
+            <text>· 온라인에서 식품을 구매하는 방법</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_5" />
+        </navPoint>
+        <navPoint id="navPoint10">
+          <navLabel>
+            <text>· 온라인에서 식품을 구매하는 장소</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_6" />
+        </navPoint>
+        <navPoint id="navPoint11">
+          <navLabel>
+            <text>· 온라인에서 식품을 구매할 때 장점</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_7" />
+        </navPoint>
+        <navPoint id="navPoint12">
+          <navLabel>
+            <text>· 온라인에서 식품을 구매할 때 단점</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_8" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint13">
+        <navLabel>
+          <text>(2) 오프라인 이용</text>
+        </navLabel>
+        <content src="Text/Part02_1.xhtml#sigil_toc_id_9" />
+        <navPoint id="navPoint14">
+          <navLabel>
+            <text>· 오프라인에서 식품을 구매하는 방법</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_10" />
+        </navPoint>
+        <navPoint id="navPoint15">
+          <navLabel>
+            <text>· 오프라인에서 식품을 구매하는 장소</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_11" />
+        </navPoint>
+        <navPoint id="navPoint16">
+          <navLabel>
+            <text>· 오프라인에서 식품을 구매할 때 장점</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_12" />
+        </navPoint>
+        <navPoint id="navPoint17">
+          <navLabel>
+            <text>· 오프라인에서 식품을 구매할 때 단점</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_13" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint18">
+        <navLabel>
+          <text>(3) 구매 시 정보 확인이 불가능해 일어나는 상황들</text>
+        </navLabel>
+        <content src="Text/Part02_1.xhtml#sigil_toc_id_14" />
+        <navPoint id="navPoint19">
+          <navLabel>
+            <text>· 가격 비교 불가능</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_15" />
+        </navPoint>
+        <navPoint id="navPoint20">
+          <navLabel>
+            <text>· 선택 폭의 감소</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_16" />
+        </navPoint>
+        <navPoint id="navPoint21">
+          <navLabel>
+            <text>· 품질이 좋지 않거나 원하지 않는 상품 구매</text>
+          </navLabel>
+          <content src="Text/Part02_1.xhtml#sigil_toc_id_17" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint22">
+      <navLabel>
+        <text>2. 식품의 보관</text>
+      </navLabel>
+      <content src="Text/Part02_2.xhtml" />
+      <navPoint id="navPoint23">
+        <navLabel>
+          <text>(1) 식품 분류 및 정리</text>
+        </navLabel>
+        <content src="Text/Part02_2.xhtml#sigil_toc_id_18" />
+      </navPoint>
+      <navPoint id="navPoint24">
+        <navLabel>
+          <text>(2) 보관 시 정보 확인이 불가능해 일어나는 상황들</text>
+        </navLabel>
+        <content src="Text/Part02_2.xhtml#sigil_toc_id_19" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint25">
+      <navLabel>
+        <text>3. 식품의 섭취</text>
+      </navLabel>
+      <content src="Text/Part02_3.xhtml" />
+      <navPoint id="navPoint26">
+        <navLabel>
+          <text>· 조리의 어려움</text>
+        </navLabel>
+        <content src="Text/Part02_3.xhtml#sigil_toc_id_20" />
+      </navPoint>
+      <navPoint id="navPoint27">
+        <navLabel>
+          <text>· 원하지 않는 식품의 섭취</text>
+        </navLabel>
+        <content src="Text/Part02_3.xhtml#sigil_toc_id_21" />
+      </navPoint>
+      <navPoint id="navPoint28">
+        <navLabel>
+          <text>· 소비기한이 지난 식품을 섭취</text>
+        </navLabel>
+        <content src="Text/Part02_3.xhtml#sigil_toc_id_22" />
+      </navPoint>
+      <navPoint id="navPoint29">
+        <navLabel>
+          <text>· 식품이 아닌 것을 섭취</text>
+        </navLabel>
+        <content src="Text/Part02_3.xhtml#sigil_toc_id_23" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint30">
+      <navLabel>
+        <text>4. 시각장애인의 식품 정보 습득</text>
+      </navLabel>
+      <content src="Text/Part02_4.xhtml" />
+      <navPoint id="navPoint31">
+        <navLabel>
+          <text>(1) 식품 정보 습득을 위해 이용하는 방법</text>
+        </navLabel>
+        <content src="Text/Part02_4.xhtml#sigil_toc_id_24" />
+        <navPoint id="navPoint32">
+          <navLabel>
+            <text>· 오감 활용</text>
+          </navLabel>
+          <content src="Text/Part02_4.xhtml#sigil_toc_id_25" />
+        </navPoint>
+        <navPoint id="navPoint33">
+          <navLabel>
+            <text>· 보조기기 활용</text>
+          </navLabel>
+          <content src="Text/Part02_4.xhtml#sigil_toc_id_26" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint34">
+        <navLabel>
+          <text>(2) 한계점</text>
+        </navLabel>
+        <content src="Text/Part02_4.xhtml#sigil_toc_id_27" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint35">
+      <navLabel>
+        <text>5. 시각장애인의 현행 식품 정보표기 방법에 대한 생각</text>
+      </navLabel>
+      <content src="Text/Part02_5.xhtml" />
+      <navPoint id="navPoint36">
+        <navLabel>
+          <text>(1) 인쇄 및 디자인</text>
+        </navLabel>
+        <content src="Text/Part02_5.xhtml#sigil_toc_id_28" />
+      </navPoint>
+      <navPoint id="navPoint37">
+        <navLabel>
+          <text>(2) 점자표기</text>
+        </navLabel>
+        <content src="Text/Part02_5.xhtml#sigil_toc_id_29" />
+      </navPoint>
+      <navPoint id="navPoint38">
+        <navLabel>
+          <text>(3) 바코드·QR코드</text>
+        </navLabel>
+        <content src="Text/Part02_5.xhtml#sigil_toc_id_30" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint39">
+      <navLabel>
+        <text>6. 시각장애인들이 제안하는 표시 방법</text>
+      </navLabel>
+      <content src="Text/Part02_6.xhtml" />
+      <navPoint id="navPoint40">
+        <navLabel>
+          <text>(1) 인쇄 및 디자인</text>
+        </navLabel>
+        <content src="Text/Part02_6.xhtml#sigil_toc_id_31" />
+      </navPoint>
+      <navPoint id="navPoint41">
+        <navLabel>
+          <text>(2) 점자표기</text>
+        </navLabel>
+        <content src="Text/Part02_6.xhtml#sigil_toc_id_32" />
+      </navPoint>
+      <navPoint id="navPoint42">
+        <navLabel>
+          <text>(3) 바코드·QR코드 표시</text>
+        </navLabel>
+        <content src="Text/Part02_6.xhtml#sigil_toc_id_33" />
+      </navPoint>
+      <navPoint id="navPoint43">
+        <navLabel>
+          <text>(4) 기타</text>
+        </navLabel>
+        <content src="Text/Part02_6.xhtml#sigil_toc_id_34" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint44">
+      <navLabel>
+        <text>7. 시각장애인이 표기를 원하는 식품 정보</text>
+      </navLabel>
+      <content src="Text/Part02_7.xhtml" />
+      <navPoint id="navPoint45">
+        <navLabel>
+          <text>(1) 제품명</text>
+        </navLabel>
+        <content src="Text/Part02_7.xhtml#sigil_toc_id_35" />
+      </navPoint>
+      <navPoint id="navPoint46">
+        <navLabel>
+          <text>(2) 소비기한</text>
+        </navLabel>
+        <content src="Text/Part02_7.xhtml#sigil_toc_id_36" />
+      </navPoint>
+      <navPoint id="navPoint47">
+        <navLabel>
+          <text>(3) 알레르기</text>
+        </navLabel>
+        <content src="Text/Part02_7.xhtml#sigil_toc_id_37" />
+      </navPoint>
+      <navPoint id="navPoint48">
+        <navLabel>
+          <text>(4) 그 외</text>
+        </navLabel>
+        <content src="Text/Part02_7.xhtml#sigil_toc_id_38" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint49">
+      <navLabel>
+        <text>8. 먼저 표기되어야 하는 식품군</text>
+      </navLabel>
+      <content src="Text/Part02_8.xhtml" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint50">
+    <navLabel>
+      <text>제3장 마무리</text>
+    </navLabel>
+    <content src="Text/Part03.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint51">
+    <navLabel>
+      <text>지시각장애인의 식품 정보 접근성 인터뷰 사례집 - 저작권 고지</text>
+    </navLabel>
+    <content src="Text/Credit.xhtml" />
+  </navPoint>
+</navMap>
+</ncx>
