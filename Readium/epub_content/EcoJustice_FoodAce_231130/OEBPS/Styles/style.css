@@ -364,6 +364,8 @@ section[role="doc-index"] ul li {
 
 nav#toc ol {
   list-style-type: none;
+  margin-left: -1em;
+  padding-top: 0.5em;
 }
 
 nav#toc ol li {
