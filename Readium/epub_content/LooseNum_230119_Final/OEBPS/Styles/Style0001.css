@@ -1,0 +1,221 @@
+/*coded by arborsday: alynk@naver.com*/
+@charset  "UTF-8";
+@font-face {
+  font-family: 'KoddiUDOnGothic-Bold';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../Fonts/KoddiUDOnGothic-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'KoddiUDOnGothic-ExtraBold';
+  font-weight: 800;
+  font-style: normal;
+  src: url('../Fonts/KoddiUDOnGothic-ExtraBold.ttf');
+}
+
+@font-face {
+  font-family: 'KoddiUDOnGothic-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../Fonts/KoddiUDOnGothic-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'KyoboHandwriting2021sjy.ttf';
+  src: url('../Fonts/KyoboHandwriting2021sjy.ttf');
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0.5em;
+  margin: 0.5em;
+}
+
+.cover {
+  width: 100%;
+  height: 100%;
+  text-indent: 0;
+  text-align: center;
+  display: box;
+  box-orient: horizontal;
+  box-pack: center;
+  box-align: center;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+  display: -moz-box;
+  -moz-box-orient: horizontal;
+  -moz-box-pack: center;
+  -moz-box-align: center;
+}
+
+img.cover {
+  width: 100%;
+  height: auto;
+}
+
+.img_85 {
+  text-align: center;
+  max-width: 85%;
+  margin: 0 auto;
+}
+
+.img_85 img {
+  width: 100%;
+  height: auto;
+}
+
+.img_40 {
+  text-align: center;
+  max-width: 40%;
+  margin: 0 auto;
+}
+
+.img_40 img {
+  width: 100%;
+  height: auto;
+}
+
+/*text*/
+h2 {
+  margin: 0.5em 0 1.5em 0;
+  color: #4D5466;
+  font-family: 'KoddiUDOnGothic-Regular';
+  text-align: center;
+  font-size: 1em;
+  line-height: 1.8em;
+}
+
+h3 {
+  color: #4D5466;
+  font-family: 'KoddiUDOnGothic-Bold';
+  text-align: center;
+  font-size: 1em;
+  line-height: 1.8em;
+}
+
+h4 {
+  color: #4D5466;
+  font-family: 'KoddiUDOnGothic-ExtraBold';
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 2.4em;
+  padding: 1em 0;
+}
+
+p {
+  font-family: 'KoddiUDOnGothic-Regular';
+  font-size: 1em;
+  line-height: 2em;
+  margin: 0 0 1em 0;
+}
+
+strong {
+  font-family: 'KoddiUDOnGothic-ExtraBold';
+}
+
+.bigger {
+  font-size: 1.4em;
+}
+
+.smaller {
+  font-size: 0.8em;
+}
+
+sup {
+  font-family: 'KoddiUDOnGothic-ExtraBold';
+  font-size: 0.6em;
+  line-height: 0.8rem;
+}
+
+sub {
+  color: #4D5466;
+  font-size: 0.75em;
+  line-height: 0.8rem;
+  vertical-align: baseline;
+}
+
+.caption {
+  color: #4D5466;
+  font-family: 'KoddiUDOnGothic-Bold';
+  text-align: left;
+  font-size: 0.8em;
+  line-height: 1.6em;
+  margin: 1em 0 1.4em 0;
+}
+
+/*box*/
+.box_middle {
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 83vh;
+  border: 0.18em solid;
+  border-image: linear-gradient(#A7CEF5, #9A969D) 60;
+  margin: 1em;
+}
+
+.toc > p {
+  text-align: center;
+  line-height: 2.4em;
+  color: #4D5466;
+  margin: 0;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #4D5466;
+}
+
+/*deco*/
+
+.icon {
+  font-size: 3.2em;
+  text-align: center;
+  color: #A7CEF5;
+  font-family: 'KoddiUDOnGothic-Bold';
+}
+
+hr.writer {
+  background-color: none;
+  border: none;
+  border-top: 1px solid #A7CEF5;
+  width: 72%;
+  color: #A7CEF5;
+  overflow: visible;
+  text-align: center;
+  height: 1px;
+  margin: 2em auto;
+}
+
+hr.writer:after {
+  background: #fff;
+  content: '§';
+  padding: 0 10px;
+  position: relative;
+  top: -10px;
+}
+
+.memo {
+  padding: 0.7em;
+  border: gray dashed 1px;
+}
+
+.memo > p {
+  font-family: 'KyoboHandwriting2021sjy';
+  font-size: 0.8em;
+}
+
+a {
+  text-decoration: none;
+  color: #3F8FD0;
+}

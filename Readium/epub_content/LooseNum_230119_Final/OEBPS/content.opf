@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>ko</dc:language>
+    <dc:title>숫자는 너무 지루해서</dc:title>
+    <meta content="1.9.10" name="Sigil version"/>
+    <dc:creator>김지영</dc:creator>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2023-01-19</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:6c26918b-98c4-4c60-b7f8-2bcf8aecd6e2</dc:identifier>
+    <meta name="cover" content="cover.png"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="toc.xhtml" href="Text/toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dobira.xhtml" href="Text/dobira.xhtml" media-type="application/xhtml+xml"/>
+    <item id="writer.xhtml" href="Text/writer.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KoddiUDOnGothic-Regular.ttf" href="Fonts/KoddiUDOnGothic-Regular.ttf" media-type="font/ttf"/>
+    <item id="KoddiUDOnGothic-ExtraBold.ttf" href="Fonts/KoddiUDOnGothic-ExtraBold.ttf" media-type="font/ttf"/>
+    <item id="KoddiUDOnGothic-Bold.ttf" href="Fonts/KoddiUDOnGothic-Bold.ttf" media-type="font/ttf"/>
+    <item id="writer.jpg" href="Images/writer.jpg" media-type="image/jpeg"/>
+    <item id="CH1.xhtml" href="Text/CH1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x004.jpg" href="Images/004.jpg" media-type="image/jpeg"/>
+    <item id="x003.jpg" href="Images/003.jpg" media-type="image/jpeg"/>
+    <item id="cover.png" href="Images/cover.png" media-type="image/png"/>
+    <item id="CH1_1.xhtml" href="Text/CH1_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="footnote.xhtml" href="Text/footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bookinfo.xhtml" href="Text/bookinfo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_2.xhtml" href="Text/CH1_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_5.xhtml" href="Text/CH1_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_4.xhtml" href="Text/CH1_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH2.xhtml" href="Text/CH2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH1_3.xhtml" href="Text/CH1_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH2_1.xhtml" href="Text/CH2_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH2_3.xhtml" href="Text/CH2_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH2_2.xhtml" href="Text/CH2_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH2_4.xhtml" href="Text/CH2_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH2_5.xhtml" href="Text/CH2_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH2_6.xhtml" href="Text/CH2_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH3.xhtml" href="Text/CH3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH3_1.xhtml" href="Text/CH3_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH3_2.xhtml" href="Text/CH3_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CH3_3.xhtml" href="Text/CH3_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x006.jpg" href="Images/006.jpg" media-type="image/jpeg"/>
+    <item id="x005.jpg" href="Images/005.jpg" media-type="image/jpeg"/>
+    <item id="x008.jpg" href="Images/008.jpg" media-type="image/jpeg"/>
+    <item id="x007.jpg" href="Images/007.jpg" media-type="image/jpeg"/>
+    <item id="x010.jpg" href="Images/010.jpg" media-type="image/jpeg"/>
+    <item id="x009.jpg" href="Images/009.jpg" media-type="image/jpeg"/>
+    <item id="x014.jpg" href="Images/014.jpg" media-type="image/jpeg"/>
+    <item id="x013.jpg" href="Images/013.jpg" media-type="image/jpeg"/>
+    <item id="x012.jpg" href="Images/012.jpg" media-type="image/jpeg"/>
+    <item id="x011.jpg" href="Images/011.jpg" media-type="image/jpeg"/>
+    <item id="x017.jpg" href="Images/017.jpg" media-type="image/jpeg"/>
+    <item id="x016.jpg" href="Images/016.jpg" media-type="image/jpeg"/>
+    <item id="x015.jpg" href="Images/015.jpg" media-type="image/jpeg"/>
+    <item id="x019.jpg" href="Images/019.jpg" media-type="image/jpeg"/>
+    <item id="x018.jpg" href="Images/018.jpg" media-type="image/jpeg"/>
+    <item id="x021.jpg" href="Images/021.jpg" media-type="image/jpeg"/>
+    <item id="x020.jpg" href="Images/020.jpg" media-type="image/jpeg"/>
+    <item id="x025.jpg" href="Images/025.jpg" media-type="image/jpeg"/>
+    <item id="x024.jpg" href="Images/024.jpg" media-type="image/jpeg"/>
+    <item id="x023.jpg" href="Images/023.jpg" media-type="image/jpeg"/>
+    <item id="x022.jpg" href="Images/022.jpg" media-type="image/jpeg"/>
+    <item id="x029.jpg" href="Images/029.jpg" media-type="image/jpeg"/>
+    <item id="x028.jpg" href="Images/028.jpg" media-type="image/jpeg"/>
+    <item id="x027.jpg" href="Images/027.jpg" media-type="image/jpeg"/>
+    <item id="x026.jpg" href="Images/026.jpg" media-type="image/jpeg"/>
+    <item id="x031.jpg" href="Images/031.jpg" media-type="image/jpeg"/>
+    <item id="x030.jpg" href="Images/030.jpg" media-type="image/jpeg"/>
+    <item id="x041.jpg" href="Images/041.jpg" media-type="image/jpeg"/>
+    <item id="x040.jpg" href="Images/040.jpg" media-type="image/jpeg"/>
+    <item id="x039.jpg" href="Images/039.jpg" media-type="image/jpeg"/>
+    <item id="x038.jpg" href="Images/038.jpg" media-type="image/jpeg"/>
+    <item id="x037.jpg" href="Images/037.jpg" media-type="image/jpeg"/>
+    <item id="x036.jpg" href="Images/036.jpg" media-type="image/jpeg"/>
+    <item id="x035.jpg" href="Images/035.jpg" media-type="image/jpeg"/>
+    <item id="x034.jpg" href="Images/034.jpg" media-type="image/jpeg"/>
+    <item id="x033.jpg" href="Images/033.jpg" media-type="image/jpeg"/>
+    <item id="x032.jpg" href="Images/032.jpg" media-type="image/jpeg"/>
+    <item id="x076.jpg" href="Images/076.jpg" media-type="image/jpeg"/>
+    <item id="x075.jpg" href="Images/075.jpg" media-type="image/jpeg"/>
+    <item id="x090.jpg" href="Images/090.jpg" media-type="image/jpeg"/>
+    <item id="x089.jpg" href="Images/089.jpg" media-type="image/jpeg"/>
+    <item id="x074.jpg" href="Images/074.jpg" media-type="image/jpeg"/>
+    <item id="img_collage_012.png" href="Images/img_collage_012.png" media-type="image/png"/>
+    <item id="img_collage_011.png" href="Images/img_collage_011.png" media-type="image/png"/>
+    <item id="img_collage_010.png" href="Images/img_collage_010.png" media-type="image/png"/>
+    <item id="img_collage_009.png" href="Images/img_collage_009.png" media-type="image/png"/>
+    <item id="img_collage_008.png" href="Images/img_collage_008.png" media-type="image/png"/>
+    <item id="img_collage_007.png" href="Images/img_collage_007.png" media-type="image/png"/>
+    <item id="img_collage_006.png" href="Images/img_collage_006.png" media-type="image/png"/>
+    <item id="img_collage_005.png" href="Images/img_collage_005.png" media-type="image/png"/>
+    <item id="img_collage_004.png" href="Images/img_collage_004.png" media-type="image/png"/>
+    <item id="img_collage_003.png" href="Images/img_collage_003.png" media-type="image/png"/>
+    <item id="img_collage_002.png" href="Images/img_collage_002.png" media-type="image/png"/>
+    <item id="img_collage_001.png" href="Images/img_collage_001.png" media-type="image/png"/>
+    <item id="KyoboHandwriting2021sjy.ttf" href="Fonts/KyoboHandwriting2021sjy.ttf" media-type="font/ttf"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="toc.xhtml"/>
+    <itemref idref="writer.xhtml"/>
+    <itemref idref="dobira.xhtml"/>
+    <itemref idref="CH1.xhtml"/>
+    <itemref idref="CH1_1.xhtml"/>
+    <itemref idref="CH1_2.xhtml"/>
+    <itemref idref="CH1_3.xhtml"/>
+    <itemref idref="CH1_4.xhtml"/>
+    <itemref idref="CH1_5.xhtml"/>
+    <itemref idref="CH2.xhtml"/>
+    <itemref idref="CH2_1.xhtml"/>
+    <itemref idref="CH2_2.xhtml"/>
+    <itemref idref="CH2_3.xhtml"/>
+    <itemref idref="CH2_4.xhtml"/>
+    <itemref idref="CH2_5.xhtml"/>
+    <itemref idref="CH2_6.xhtml"/>
+    <itemref idref="CH3.xhtml"/>
+    <itemref idref="CH3_1.xhtml"/>
+    <itemref idref="CH3_2.xhtml"/>
+    <itemref idref="CH3_3.xhtml"/>
+    <itemref idref="footnote.xhtml"/>
+    <itemref idref="bookinfo.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="표지" href="Text/cover.xhtml"/>
+  </guide>
+</package>

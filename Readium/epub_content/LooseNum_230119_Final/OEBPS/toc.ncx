@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:6c26918b-98c4-4c60-b7f8-2bcf8aecd6e2"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>숫자는 너무 지루해서</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>목차</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>지은이 김 지 영</text>
+      </navLabel>
+      <content src="Text/writer.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>1. WAKA를 만나기까지</text>
+        </navLabel>
+        <content src="Text/CH1.xhtml"/>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>과연 용기 있는 선택이었을까.</text>
+          </navLabel>
+          <content src="Text/CH1.xhtml#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>창업의 길</text>
+          </navLabel>
+          <content src="Text/CH1_1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>겁쟁이가 일을 벌이는 이유</text>
+          </navLabel>
+          <content src="Text/CH1_2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>빈집 찾기, 그 험난한 여정의 시작.</text>
+          </navLabel>
+          <content src="Text/CH1_3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>너 부동산 투기꾼 아냐?</text>
+          </navLabel>
+          <content src="Text/CH1_4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>너는 내 운명의 집</text>
+          </navLabel>
+          <content src="Text/CH1_5.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>2. 일 년이나 걸릴 줄은 몰랐다.</text>
+        </navLabel>
+        <content src="Text/CH2.xhtml"/>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>예쁜 집에 대한 생각</text>
+          </navLabel>
+          <content src="Text/CH2.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>한옥은 가분수야</text>
+          </navLabel>
+          <content src="Text/CH2_1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>집 짓는다고 해서 일하러 왔더니, 박물관을 만들고 있어.</text>
+          </navLabel>
+          <content src="Text/CH2_2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>산 넘어 산</text>
+          </navLabel>
+          <content src="Text/CH2_3.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>환경을 바꿔도, 내가 그대로라면</text>
+          </navLabel>
+          <content src="Text/CH2_4.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>그래서 언제 완공돼?</text>
+          </navLabel>
+          <content src="Text/CH2_5.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>끝판왕은 마당이야.</text>
+          </navLabel>
+          <content src="Text/CH2_6.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>3. 완공, 새로운 시작</text>
+        </navLabel>
+        <content src="Text/CH3.xhtml"/>
+        <navPoint id="navPoint-19" playOrder="19">
+          <navLabel>
+            <text>사람들이 안 좋아해 주면 어떡하지?</text>
+          </navLabel>
+          <content src="Text/CH3.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-20" playOrder="20">
+          <navLabel>
+            <text>우리 마을에서 제일 예쁜 집이 탄생했어.</text>
+          </navLabel>
+          <content src="Text/CH3_1.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>해남의 매력은 뭐다?</text>
+          </navLabel>
+          <content src="Text/CH3_2.xhtml"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>녹색갈증</text>
+          </navLabel>
+          <content src="Text/CH3_3.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>각주</text>
+      </navLabel>
+      <content src="Text/footnote.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>도서정보</text>
+      </navLabel>
+      <content src="Text/bookinfo.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
